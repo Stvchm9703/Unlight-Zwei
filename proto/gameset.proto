@@ -1,0 +1,160 @@
+syntax="proto3";
+
+package ULZProto;
+
+/**
+* this file is as the globe-defined object reference file
+* about how or what the sub-service program 
+* may defined by the service in
+* the service-{sub_prog_name}.proto
+**/
+
+
+
+
+
+
+// Enum
+
+enum        EventHookPhase {
+  /// start gameset
+  gameset_start                                 = 0;
+  /// -- turn lifecycle
+  start_turn_phase                              = 10;
+  /// ---- Draw phase (ddp)
+  refill_action_card_phase                      = 20;
+  refill_event_card_phase                       = 25;
+
+  /// ---- Move phase
+  move_card_drop_phase                          = 30;
+  determine_move_phase                          = 40;
+  finish_move_phase                             = 50;
+  chara_change_phase                            = 60;
+  determine_chara_change_phase                  = 70;
+
+  /// ---- Atk/Def Phase A
+  attack_card_drop_phase_pA                     = 80;
+  defence_card_drop_phase_pA                    = 90;
+  determine_battle_point_phase_pA               = 100;
+  battle_result_phase_pA                        = 110; //roll dice
+  damage_phase_pA                               = 120;
+  dead_chara_change_phase_pA                    = 125;
+  determine_dead_chara_change_phase_pA          = 130;
+
+  // change_initiative_phase
+
+
+  /// ---- Atk/Def Phase B
+  attack_card_drop_phase_pB                     = 140;
+  defence_card_drop_phase_pB                    = 150;
+  determine_battle_point_phase_pB               = 160;
+  battle_result_phase_pB                        = 170; //roll dice
+  damage_phase_pB                               = 180;
+  determine_dead_chara_change_phase_pB          = 190;
+
+  /// ------ change char when the charecter dead
+  dead_chara_change_phase_pB                    = 200;
+  determine_dead_chara_change_phase             = 210;
+
+  /// -- endof turn lifecycle
+  finish_turn_phase                             = 220;
+
+  /// endof game set
+  gameset_end                                   = 230;
+}
+enum        EventHookType {
+  Instant                                       = 1;
+  Before                                        = 2;
+  After                                         = 3;
+  Proxy                                         = 4;
+}
+
+
+enum ACType {
+  ATK = 0;
+  DEF = 1;
+  MOV = 2;
+  STR = 3;
+  GUN = 4;
+  NULL = 5;
+}
+
+
+message     ActionCard  {
+  string      id          = 1;
+  ACType      UpType      = 2;
+  sint32      UpValue     = 3;
+  ACType      DwType      = 4;
+  sint32      DwValue     = 5;
+}
+
+message     Status {
+  string      id          = 1;
+  string      Name        = 2;
+  string      Desription  = 3;
+  int32       Weight      = 4;
+  int32       Count       = 5;
+  bytes       TriggerFunc = 6;
+  EventHookPhase  EHPhase     = 7;
+  EventHookType   EHType      = 8;
+}
+
+message     CardCharInt {
+  string      CcId        = 1;
+  sint32      Hp          = 2;
+  sint32      HpInt       = 3;
+  sint32      Atk         = 4;
+  sint32      AtkInt      = 5;
+  sint32      Def         = 6;
+  sint32      DefInt      = 7;
+  repeated    Status      StatusInt   = 8;
+}
+
+message     Player {
+  string      id          = 1;
+  repeated    CardCharInt     CCSet   = 2;     
+  repeated    ActionCard      Deck    = 3;
+}
+
+message     Log {
+  int64      Timestamp    = 1;
+  sint32     LogLevel     = 2;
+  string     LogMsg       = 3;
+  
+}
+
+message     Room {
+  string      id          = 1;        
+  Player      Host        = 2;
+  Player      Dueler      = 3;
+  uint32      Turns       = 4;
+  Log         logger      = 5;
+  sint32      EventCounter =  6;
+  EventHookPhase  EventPhase = 7;
+  string      FirstPlayer = 8;
+  string      SecPlayer = 9;
+  string      Winner      = 10;
+}
+
+message     DiceResult {
+  sint32      ATK = 1;
+  sint32      DEF = 2;
+}
+
+message     GameSet {
+  string      id          = 1;
+  Player      Self        = 2;
+  Player      Opposite    = 3;
+  sint32      EventCounter = 4;
+  sint32      Turns       =5;
+  sint32      ATKDice     = 6;
+  sint32      DEFDice     = 7;
+  repeated DiceResult RollResult = 8;
+}
+
+
+message     PlayerInfo {
+  string      Id      = 1;
+  string      Name    = 2;
+  string      Title   = 3;
+}
