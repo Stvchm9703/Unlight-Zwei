@@ -1,0 +1,6962 @@
+[
+    {
+        "id": 1,
+        "feat_no": 2,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Precision Marksmanship"
+    },
+    {
+        "id": 2,
+        "feat_no": 2,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Precision Marksmanship"
+    },
+    {
+        "id": 4,
+        "feat_no": 3,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Torpedo Attack"
+    },
+    {
+        "id": 7,
+        "feat_no": 5,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Thorn Forest"
+    },
+    {
+        "id": 5,
+        "feat_no": 3,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Torpedo Attack"
+    },
+    {
+        "id": 8,
+        "feat_no": 5,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Thorn Forest"
+    },
+    {
+        "id": 10,
+        "feat_no": 35,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Intelligent Tactics"
+    },
+    {
+        "id": 3,
+        "feat_no": 2,
+        "pow": 10,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Precision Marksmanship"
+    },
+    {
+        "id": 6,
+        "feat_no": 3,
+        "pow": 8,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Torpedo Attack"
+    },
+    {
+        "id": 9,
+        "feat_no": 5,
+        "pow": 12,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Thorn Forest"
+    },
+    {
+        "id": 12,
+        "feat_no": 35,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Intelligent Tactics"
+    },
+    {
+        "id": 13,
+        "feat_no": 2,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rapidfire"
+    },
+    {
+        "id": 14,
+        "feat_no": 2,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rapidfire"
+    },
+    {
+        "id": 16,
+        "feat_no": 10,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Supersonic Sword"
+    },
+    {
+        "id": 19,
+        "feat_no": 11,
+        "pow": 12,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Adrenalin Attack"
+    },
+    {
+        "id": 20,
+        "feat_no": 11,
+        "pow": 16,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Adrenalin Attack"
+    },
+    {
+        "id": 22,
+        "feat_no": 39,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Indomitable Spirit"
+    },
+    {
+        "id": 15,
+        "feat_no": 2,
+        "pow": 14,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Rapidfire"
+    },
+    {
+        "id": 18,
+        "feat_no": 10,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Supersonic Sword"
+    },
+    {
+        "id": 21,
+        "feat_no": 11,
+        "pow": 99,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Adrenalin Attack"
+    },
+    {
+        "id": 24,
+        "feat_no": 39,
+        "pow": 99,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Indomitable Spirit"
+    },
+    {
+        "id": 25,
+        "feat_no": 1,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Bash"
+    },
+    {
+        "id": 26,
+        "feat_no": 1,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Bash"
+    },
+    {
+        "id": 28,
+        "feat_no": 12,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Kill Stance"
+    },
+    {
+        "id": 31,
+        "feat_no": 15,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Blood's Blessing"
+    },
+    {
+        "id": 29,
+        "feat_no": 12,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Kill Stance"
+    },
+    {
+        "id": 32,
+        "feat_no": 15,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Blood's Blessing"
+    },
+    {
+        "id": 34,
+        "feat_no": 40,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Spirit Drain"
+    },
+    {
+        "id": 27,
+        "feat_no": 1,
+        "pow": 12,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Bash"
+    },
+    {
+        "id": 30,
+        "feat_no": 12,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Kill Stance"
+    },
+    {
+        "id": 33,
+        "feat_no": 15,
+        "pow": 10,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Blood's Blessing"
+    },
+    {
+        "id": 36,
+        "feat_no": 40,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Spirit Drain"
+    },
+    {
+        "id": 37,
+        "feat_no": 1,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Slash"
+    },
+    {
+        "id": 38,
+        "feat_no": 1,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Slash"
+    },
+    {
+        "id": 40,
+        "feat_no": 6,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Charged Thrust"
+    },
+    {
+        "id": 43,
+        "feat_no": 4,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Sword Dance"
+    },
+    {
+        "id": 41,
+        "feat_no": 6,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Charged Thrust"
+    },
+    {
+        "id": 44,
+        "feat_no": 4,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Sword Dance"
+    },
+    {
+        "id": 46,
+        "feat_no": 42,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Abandon"
+    },
+    {
+        "id": 39,
+        "feat_no": 1,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Slash"
+    },
+    {
+        "id": 42,
+        "feat_no": 6,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Charged Thrust"
+    },
+    {
+        "id": 45,
+        "feat_no": 4,
+        "pow": 24,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Sword Dance"
+    },
+    {
+        "id": 48,
+        "feat_no": 42,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Abandon"
+    },
+    {
+        "id": 49,
+        "feat_no": 13,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Shadow Strike"
+    },
+    {
+        "id": 52,
+        "feat_no": 14,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Red Fang"
+    },
+    {
+        "id": 55,
+        "feat_no": 16,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rocket Counter Attack"
+    },
+    {
+        "id": 53,
+        "feat_no": 14,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Red Fang"
+    },
+    {
+        "id": 56,
+        "feat_no": 16,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rocket Counter Attack"
+    },
+    {
+        "id": 58,
+        "feat_no": 41,
+        "pow": 12,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Backstab"
+    },
+    {
+        "id": 51,
+        "feat_no": 13,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Shadow Strike"
+    },
+    {
+        "id": 54,
+        "feat_no": 14,
+        "pow": 12,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Red Fang"
+    },
+    {
+        "id": 57,
+        "feat_no": 16,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Rocket Counter Attack"
+    },
+    {
+        "id": 60,
+        "feat_no": 41,
+        "pow": 32,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Backstab"
+    },
+    {
+        "id": 61,
+        "feat_no": 7,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Desert Mirage"
+    },
+    {
+        "id": 64,
+        "feat_no": 8,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Thousand Yard Stare"
+    },
+    {
+        "id": 67,
+        "feat_no": 9,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Abyss"
+    },
+    {
+        "id": 68,
+        "feat_no": 9,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Abyss"
+    },
+    {
+        "id": 70,
+        "feat_no": 43,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Swirling Evil"
+    },
+    {
+        "id": 63,
+        "feat_no": 7,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Desert Mirage"
+    },
+    {
+        "id": 66,
+        "feat_no": 8,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Thousand Yard Stare"
+    },
+    {
+        "id": 69,
+        "feat_no": 9,
+        "pow": 1,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Abyss"
+    },
+    {
+        "id": 72,
+        "feat_no": 43,
+        "pow": 12,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Swirling Evil"
+    },
+    {
+        "id": 73,
+        "feat_no": 19,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "String of Fate"
+    },
+    {
+        "id": 76,
+        "feat_no": 18,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Circle of Fate"
+    },
+    {
+        "id": 79,
+        "feat_no": 17,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Time of Fate"
+    },
+    {
+        "id": 82,
+        "feat_no": 44,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ghost of Fate"
+    },
+    {
+        "id": 75,
+        "feat_no": 19,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex String of Fate"
+    },
+    {
+        "id": 78,
+        "feat_no": 18,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Circle of Fate None"
+    },
+    {
+        "id": 81,
+        "feat_no": 17,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Time of Fate None"
+    },
+    {
+        "id": 84,
+        "feat_no": 44,
+        "pow": 14,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Ghost of Fate"
+    },
+    {
+        "id": 85,
+        "feat_no": 27,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Land Mine"
+    },
+    {
+        "id": 86,
+        "feat_no": 27,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Land Mine"
+    },
+    {
+        "id": 88,
+        "feat_no": 28,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Desperado"
+    },
+    {
+        "id": 91,
+        "feat_no": 13,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Shadow Shot"
+    },
+    {
+        "id": 89,
+        "feat_no": 28,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Desperado"
+    },
+    {
+        "id": 92,
+        "feat_no": 13,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Shadow Shot"
+    },
+    {
+        "id": 94,
+        "feat_no": 47,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Defense Shot"
+    },
+    {
+        "id": 87,
+        "feat_no": 27,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Land Mine"
+    },
+    {
+        "id": 90,
+        "feat_no": 28,
+        "pow": 16,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Desperado"
+    },
+    {
+        "id": 93,
+        "feat_no": 13,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Shadow Shot"
+    },
+    {
+        "id": 96,
+        "feat_no": 47,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Defense Shot"
+    },
+    {
+        "id": 97,
+        "feat_no": 29,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Reject Sword"
+    },
+    {
+        "id": 98,
+        "feat_no": 29,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Reject Sword"
+    },
+    {
+        "id": 100,
+        "feat_no": 30,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Counter Guard"
+    },
+    {
+        "id": 103,
+        "feat_no": 31,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Pain Free"
+    },
+    {
+        "id": 106,
+        "feat_no": 46,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Suicide Bombing"
+    },
+    {
+        "id": 99,
+        "feat_no": 29,
+        "pow": 15,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Reject Sword"
+    },
+    {
+        "id": 102,
+        "feat_no": 324,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Ex Counter Guard"
+    },
+    {
+        "id": 105,
+        "feat_no": 31,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Ex Pain Free"
+    },
+    {
+        "id": 108,
+        "feat_no": 46,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Ex Suicide Bombing"
+    },
+    {
+        "id": 109,
+        "feat_no": 32,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Flashbang"
+    },
+    {
+        "id": 112,
+        "feat_no": 33,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Sealing Chain"
+    },
+    {
+        "id": 115,
+        "feat_no": 34,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Holy Light"
+    },
+    {
+        "id": 113,
+        "feat_no": 33,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Sealing Chain"
+    },
+    {
+        "id": 116,
+        "feat_no": 34,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Holy Light"
+    },
+    {
+        "id": 118,
+        "feat_no": 45,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Wave of Healing"
+    },
+    {
+        "id": 111,
+        "feat_no": 63,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Ex Flashbang"
+    },
+    {
+        "id": 114,
+        "feat_no": 33,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Ex Sealing Chain"
+    },
+    {
+        "id": 117,
+        "feat_no": 34,
+        "pow": 12,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Ex Holy Light"
+    },
+    {
+        "id": 120,
+        "feat_no": 45,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:21 UTC",
+        "name": "Ex Wave of Healing"
+    },
+    {
+        "id": 151,
+        "feat_no": 50,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Suicidal Tendencies"
+    },
+    {
+        "id": 154,
+        "feat_no": 51,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Misfit"
+    },
+    {
+        "id": 152,
+        "feat_no": 50,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Suicidal Tendencies"
+    },
+    {
+        "id": 157,
+        "feat_no": 52,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Demon Dog"
+    },
+    {
+        "id": 155,
+        "feat_no": 51,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Misfit"
+    },
+    {
+        "id": 158,
+        "feat_no": 52,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Demon Dog"
+    },
+    {
+        "id": 160,
+        "feat_no": 53,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Let's Knife"
+    },
+    {
+        "id": 153,
+        "feat_no": 50,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Suicidal Tendencies"
+    },
+    {
+        "id": 156,
+        "feat_no": 51,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Misfit"
+    },
+    {
+        "id": 159,
+        "feat_no": 52,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Demon Dog"
+    },
+    {
+        "id": 162,
+        "feat_no": 53,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Let's Knife"
+    },
+    {
+        "id": 163,
+        "feat_no": 54,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "One Heart"
+    },
+    {
+        "id": 166,
+        "feat_no": 55,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Body Double"
+    },
+    {
+        "id": 164,
+        "feat_no": 54,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "One Heart"
+    },
+    {
+        "id": 169,
+        "feat_no": 56,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "9 Spirits"
+    },
+    {
+        "id": 167,
+        "feat_no": 55,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Body Double"
+    },
+    {
+        "id": 170,
+        "feat_no": 56,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "9 Spirits"
+    },
+    {
+        "id": 172,
+        "feat_no": 57,
+        "pow": 13,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "13 Eyes"
+    },
+    {
+        "id": 165,
+        "feat_no": 54,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex One Heart"
+    },
+    {
+        "id": 168,
+        "feat_no": 55,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Body Double"
+    },
+    {
+        "id": 171,
+        "feat_no": 56,
+        "pow": 14,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex 9 Spirits"
+    },
+    {
+        "id": 174,
+        "feat_no": 325,
+        "pow": 24,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex 13 Eyes"
+    },
+    {
+        "id": 216,
+        "feat_no": 65,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Wit"
+    },
+    {
+        "id": 219,
+        "feat_no": 66,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Thorn Stance"
+    },
+    {
+        "id": 222,
+        "feat_no": 67,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Sword of Release"
+    },
+    {
+        "id": 220,
+        "feat_no": 66,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Thorn Stance"
+    },
+    {
+        "id": 223,
+        "feat_no": 67,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Sword of Release"
+    },
+    {
+        "id": 225,
+        "feat_no": 14,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Cursed Blade"
+    },
+    {
+        "id": 218,
+        "feat_no": 65,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Wit"
+    },
+    {
+        "id": 221,
+        "feat_no": 66,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Thorn Stance"
+    },
+    {
+        "id": 224,
+        "feat_no": 67,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Sword of Release"
+    },
+    {
+        "id": 227,
+        "feat_no": 258,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Cursed Blade"
+    },
+    {
+        "id": 228,
+        "feat_no": 68,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Single Slash"
+    },
+    {
+        "id": 231,
+        "feat_no": 69,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Cross Slash"
+    },
+    {
+        "id": 229,
+        "feat_no": 68,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Single Slash"
+    },
+    {
+        "id": 234,
+        "feat_no": 70,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "One Hundred Slashes"
+    },
+    {
+        "id": 232,
+        "feat_no": 69,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Cross Slash"
+    },
+    {
+        "id": 235,
+        "feat_no": 70,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "One Hundred Slashes"
+    },
+    {
+        "id": 237,
+        "feat_no": 71,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Furious Stance"
+    },
+    {
+        "id": 230,
+        "feat_no": 68,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Single Slash"
+    },
+    {
+        "id": 233,
+        "feat_no": 69,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Cross Slash"
+    },
+    {
+        "id": 236,
+        "feat_no": 70,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex One Hundred Slashes"
+    },
+    {
+        "id": 239,
+        "feat_no": 71,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Furious Stance"
+    },
+    {
+        "id": 240,
+        "feat_no": 72,
+        "pow": 1,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Moonlight"
+    },
+    {
+        "id": 243,
+        "feat_no": 73,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rapture"
+    },
+    {
+        "id": 241,
+        "feat_no": 72,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Moonlight"
+    },
+    {
+        "id": 246,
+        "feat_no": 74,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Doomsday"
+    },
+    {
+        "id": 244,
+        "feat_no": 73,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rapture"
+    },
+    {
+        "id": 247,
+        "feat_no": 74,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Doomsday"
+    },
+    {
+        "id": 249,
+        "feat_no": 75,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Hellbound Heart"
+    },
+    {
+        "id": 242,
+        "feat_no": 72,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Moonlight"
+    },
+    {
+        "id": 245,
+        "feat_no": 73,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Rapture"
+    },
+    {
+        "id": 248,
+        "feat_no": 74,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Doomsday"
+    },
+    {
+        "id": 251,
+        "feat_no": 75,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Hellbound Heart"
+    },
+    {
+        "id": 252,
+        "feat_no": 59,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Circle of T"
+    },
+    {
+        "id": 255,
+        "feat_no": 51,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Misfit"
+    },
+    {
+        "id": 253,
+        "feat_no": 59,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Circle of T"
+    },
+    {
+        "id": 258,
+        "feat_no": 76,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Super Heroine"
+    },
+    {
+        "id": 256,
+        "feat_no": 51,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Misfit"
+    },
+    {
+        "id": 259,
+        "feat_no": 76,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Super Heroine"
+    },
+    {
+        "id": 261,
+        "feat_no": 64,
+        "pow": 8,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "D. Control"
+    },
+    {
+        "id": 262,
+        "feat_no": 64,
+        "pow": 8,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "D. Control"
+    },
+    {
+        "id": 254,
+        "feat_no": 59,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Circle of T"
+    },
+    {
+        "id": 257,
+        "feat_no": 51,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Misfit"
+    },
+    {
+        "id": 260,
+        "feat_no": 76,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Super Heroine"
+    },
+    {
+        "id": 263,
+        "feat_no": 64,
+        "pow": 15,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex D. Control"
+    },
+    {
+        "id": 264,
+        "feat_no": 77,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Challenger"
+    },
+    {
+        "id": 267,
+        "feat_no": 78,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Haughty One"
+    },
+    {
+        "id": 265,
+        "feat_no": 77,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Challenger"
+    },
+    {
+        "id": 270,
+        "feat_no": 79,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Glutton"
+    },
+    {
+        "id": 268,
+        "feat_no": 78,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Haughty One"
+    },
+    {
+        "id": 271,
+        "feat_no": 79,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Glutton"
+    },
+    {
+        "id": 273,
+        "feat_no": 80,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Regenerated One"
+    },
+    {
+        "id": 274,
+        "feat_no": 80,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Regenerated One"
+    },
+    {
+        "id": 266,
+        "feat_no": 77,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Challenger"
+    },
+    {
+        "id": 269,
+        "feat_no": 78,
+        "pow": 9,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Haughty One"
+    },
+    {
+        "id": 272,
+        "feat_no": 79,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Glutton"
+    },
+    {
+        "id": 275,
+        "feat_no": 80,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Regenerated One"
+    },
+    {
+        "id": 276,
+        "feat_no": 81,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "White Light"
+    },
+    {
+        "id": 279,
+        "feat_no": 82,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Crystal M"
+    },
+    {
+        "id": 277,
+        "feat_no": 81,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "White Light"
+    },
+    {
+        "id": 282,
+        "feat_no": 83,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Snow Bowling"
+    },
+    {
+        "id": 280,
+        "feat_no": 82,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Crystal M"
+    },
+    {
+        "id": 283,
+        "feat_no": 83,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Snow Bowling"
+    },
+    {
+        "id": 285,
+        "feat_no": 84,
+        "pow": 10,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Solvent Rain"
+    },
+    {
+        "id": 286,
+        "feat_no": 84,
+        "pow": 10,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Solvent Rain"
+    },
+    {
+        "id": 278,
+        "feat_no": 81,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex White Light"
+    },
+    {
+        "id": 281,
+        "feat_no": 82,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Crystal M"
+    },
+    {
+        "id": 284,
+        "feat_no": 83,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "EX Snow Bowling"
+    },
+    {
+        "id": 287,
+        "feat_no": 84,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Solvent Rain"
+    },
+    {
+        "id": 306,
+        "feat_no": 85,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "The Gate of Consciousness"
+    },
+    {
+        "id": 309,
+        "feat_no": 86,
+        "pow": 10,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Overdose"
+    },
+    {
+        "id": 307,
+        "feat_no": 85,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "The Gate of Consciousness"
+    },
+    {
+        "id": 312,
+        "feat_no": 87,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Razor's Edge"
+    },
+    {
+        "id": 310,
+        "feat_no": 86,
+        "pow": 14,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Overdose"
+    },
+    {
+        "id": 313,
+        "feat_no": 87,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Razor's Edge"
+    },
+    {
+        "id": 315,
+        "feat_no": 88,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Hell's Bell"
+    },
+    {
+        "id": 316,
+        "feat_no": 88,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Hell's Bell"
+    },
+    {
+        "id": 308,
+        "feat_no": 85,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex The Gate of Consciousness"
+    },
+    {
+        "id": 311,
+        "feat_no": 86,
+        "pow": 16,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Overdose"
+    },
+    {
+        "id": 314,
+        "feat_no": 326,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Razor's Edge"
+    },
+    {
+        "id": 317,
+        "feat_no": 88,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Hell's Bell"
+    },
+    {
+        "id": 355,
+        "feat_no": 97,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Active Armor"
+    },
+    {
+        "id": 358,
+        "feat_no": 98,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Machinegun"
+    },
+    {
+        "id": 356,
+        "feat_no": 97,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Active Armor"
+    },
+    {
+        "id": 361,
+        "feat_no": 99,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Heatseeker"
+    },
+    {
+        "id": 359,
+        "feat_no": 98,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Machinegun"
+    },
+    {
+        "id": 362,
+        "feat_no": 99,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Heatseeker"
+    },
+    {
+        "id": 364,
+        "feat_no": 100,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Purge"
+    },
+    {
+        "id": 365,
+        "feat_no": 100,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Purge"
+    },
+    {
+        "id": 357,
+        "feat_no": 97,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Active Armor"
+    },
+    {
+        "id": 360,
+        "feat_no": 98,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Machinegun"
+    },
+    {
+        "id": 363,
+        "feat_no": 99,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Heatseeker"
+    },
+    {
+        "id": 366,
+        "feat_no": 100,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Purge"
+    },
+    {
+        "id": 367,
+        "feat_no": 101,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "High Hand"
+    },
+    {
+        "id": 370,
+        "feat_no": 102,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Jackpot"
+    },
+    {
+        "id": 368,
+        "feat_no": 101,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "High Hand"
+    },
+    {
+        "id": 373,
+        "feat_no": 103,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Low Ball"
+    },
+    {
+        "id": 371,
+        "feat_no": 102,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Jackpot"
+    },
+    {
+        "id": 374,
+        "feat_no": 103,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Low Ball"
+    },
+    {
+        "id": 376,
+        "feat_no": 104,
+        "pow": 99,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Gambling"
+    },
+    {
+        "id": 377,
+        "feat_no": 104,
+        "pow": 99,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Gambling"
+    },
+    {
+        "id": 369,
+        "feat_no": 101,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex High Hand"
+    },
+    {
+        "id": 372,
+        "feat_no": 102,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Jackpot"
+    },
+    {
+        "id": 375,
+        "feat_no": 103,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Low Ball"
+    },
+    {
+        "id": 378,
+        "feat_no": 104,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Gambling"
+    },
+    {
+        "id": 379,
+        "feat_no": 105,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Birdcage"
+    },
+    {
+        "id": 382,
+        "feat_no": 106,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Death by Hanging"
+    },
+    {
+        "id": 380,
+        "feat_no": 105,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Birdcage"
+    },
+    {
+        "id": 385,
+        "feat_no": 107,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Blast Off"
+    },
+    {
+        "id": 383,
+        "feat_no": 106,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Death by Hanging"
+    },
+    {
+        "id": 386,
+        "feat_no": 107,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Blast Off"
+    },
+    {
+        "id": 388,
+        "feat_no": 108,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Puppet master"
+    },
+    {
+        "id": 389,
+        "feat_no": 108,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Puppet Master"
+    },
+    {
+        "id": 381,
+        "feat_no": 105,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Birdcage"
+    },
+    {
+        "id": 384,
+        "feat_no": 106,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Death by Hanging"
+    },
+    {
+        "id": 387,
+        "feat_no": 107,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Blast Off"
+    },
+    {
+        "id": 390,
+        "feat_no": 108,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Puppet Master"
+    },
+    {
+        "id": 391,
+        "feat_no": 109,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "C.T.L"
+    },
+    {
+        "id": 394,
+        "feat_no": 110,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "B.P.A"
+    },
+    {
+        "id": 392,
+        "feat_no": 109,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "C.T.L"
+    },
+    {
+        "id": 397,
+        "feat_no": 111,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "L.A.R"
+    },
+    {
+        "id": 395,
+        "feat_no": 110,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "B.P.A"
+    },
+    {
+        "id": 398,
+        "feat_no": 111,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "L.A.R"
+    },
+    {
+        "id": 400,
+        "feat_no": 112,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "S.S.S"
+    },
+    {
+        "id": 401,
+        "feat_no": 112,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "S.S.S"
+    },
+    {
+        "id": 393,
+        "feat_no": 109,
+        "pow": 9,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex C.T.L"
+    },
+    {
+        "id": 396,
+        "feat_no": 110,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex B.P.A"
+    },
+    {
+        "id": 399,
+        "feat_no": 111,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex L.A.R"
+    },
+    {
+        "id": 402,
+        "feat_no": 112,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex S.S.S"
+    },
+    {
+        "id": 405,
+        "feat_no": 114,
+        "pow": 1,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Bonfire"
+    },
+    {
+        "id": 408,
+        "feat_no": 115,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Purgatory"
+    },
+    {
+        "id": 406,
+        "feat_no": 114,
+        "pow": 1,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Bonfire"
+    },
+    {
+        "id": 411,
+        "feat_no": 116,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Camouflage"
+    },
+    {
+        "id": 409,
+        "feat_no": 115,
+        "pow": 8,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Purgatory"
+    },
+    {
+        "id": 412,
+        "feat_no": 116,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Camouflage"
+    },
+    {
+        "id": 414,
+        "feat_no": 117,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Burn Down"
+    },
+    {
+        "id": 415,
+        "feat_no": 117,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Burn Down"
+    },
+    {
+        "id": 407,
+        "feat_no": 114,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Bonfire"
+    },
+    {
+        "id": 410,
+        "feat_no": 115,
+        "pow": 15,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Purgatory"
+    },
+    {
+        "id": 413,
+        "feat_no": 116,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Camouflage"
+    },
+    {
+        "id": 416,
+        "feat_no": 117,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Burn Down"
+    },
+    {
+        "id": 417,
+        "feat_no": 118,
+        "pow": 30,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dark Hole"
+    },
+    {
+        "id": 420,
+        "feat_no": 119,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Tannhäuser Gate"
+    },
+    {
+        "id": 418,
+        "feat_no": 118,
+        "pow": 30,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dark Hole"
+    },
+    {
+        "id": 423,
+        "feat_no": 120,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Schwert Blitz"
+    },
+    {
+        "id": 421,
+        "feat_no": 119,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Tannhäuser Gate"
+    },
+    {
+        "id": 424,
+        "feat_no": 120,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Schwert Blitz"
+    },
+    {
+        "id": 426,
+        "feat_no": 121,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Highlander"
+    },
+    {
+        "id": 427,
+        "feat_no": 121,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Highlander"
+    },
+    {
+        "id": 419,
+        "feat_no": 118,
+        "pow": 50,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Dark Hole"
+    },
+    {
+        "id": 422,
+        "feat_no": 119,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Tannhäuser Gate"
+    },
+    {
+        "id": 425,
+        "feat_no": 120,
+        "pow": 11,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Schwert Blitz"
+    },
+    {
+        "id": 428,
+        "feat_no": 121,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Highlander"
+    },
+    {
+        "id": 429,
+        "feat_no": 122,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Bloodletting"
+    },
+    {
+        "id": 432,
+        "feat_no": 123,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Acupuncture"
+    },
+    {
+        "id": 430,
+        "feat_no": 122,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Bloodletting"
+    },
+    {
+        "id": 435,
+        "feat_no": 124,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dissection"
+    },
+    {
+        "id": 433,
+        "feat_no": 123,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Acupuncture"
+    },
+    {
+        "id": 436,
+        "feat_no": 124,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dissection"
+    },
+    {
+        "id": 438,
+        "feat_no": 125,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Euthanasia"
+    },
+    {
+        "id": 439,
+        "feat_no": 125,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Euthanasia"
+    },
+    {
+        "id": 431,
+        "feat_no": 122,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Bloodletting"
+    },
+    {
+        "id": 434,
+        "feat_no": 123,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Acupuncture"
+    },
+    {
+        "id": 437,
+        "feat_no": 124,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Dissection"
+    },
+    {
+        "id": 440,
+        "feat_no": 125,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Euthanasia"
+    },
+    {
+        "id": 548,
+        "feat_no": 97,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Active Armor"
+    },
+    {
+        "id": 551,
+        "feat_no": 158,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Battle Axe"
+    },
+    {
+        "id": 549,
+        "feat_no": 97,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Active Armor"
+    },
+    {
+        "id": 554,
+        "feat_no": 159,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "MOAB"
+    },
+    {
+        "id": 552,
+        "feat_no": 158,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Battle Axe"
+    },
+    {
+        "id": 555,
+        "feat_no": 159,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "MOAB"
+    },
+    {
+        "id": 557,
+        "feat_no": 160,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Overheat"
+    },
+    {
+        "id": 558,
+        "feat_no": 160,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Overheat"
+    },
+    {
+        "id": 550,
+        "feat_no": 97,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Active Armor"
+    },
+    {
+        "id": 553,
+        "feat_no": 158,
+        "pow": 11,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Battle Axe"
+    },
+    {
+        "id": 556,
+        "feat_no": 159,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex MOAB"
+    },
+    {
+        "id": 559,
+        "feat_no": 160,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Overheat"
+    },
+    {
+        "id": 441,
+        "feat_no": 126,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Angry Paw"
+    },
+    {
+        "id": 444,
+        "feat_no": 127,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Peace Back"
+    },
+    {
+        "id": 442,
+        "feat_no": 126,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Angry Paw"
+    },
+    {
+        "id": 447,
+        "feat_no": 128,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Merciful Blue Eyes"
+    },
+    {
+        "id": 445,
+        "feat_no": 127,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Peace Back"
+    },
+    {
+        "id": 448,
+        "feat_no": 128,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Merciful Blue Eyes"
+    },
+    {
+        "id": 450,
+        "feat_no": 129,
+        "pow": 1,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Horrible Wolf Teeth"
+    },
+    {
+        "id": 451,
+        "feat_no": 129,
+        "pow": 1,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Horrible Wolf Teeth"
+    },
+    {
+        "id": 443,
+        "feat_no": 126,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Angry Paw"
+    },
+    {
+        "id": 446,
+        "feat_no": 127,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Peace Back"
+    },
+    {
+        "id": 449,
+        "feat_no": 128,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Merciful Blue Eyes"
+    },
+    {
+        "id": 452,
+        "feat_no": 129,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Horrible Wolf Teeth"
+    },
+    {
+        "id": 457,
+        "feat_no": 130,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Hide in Foliage"
+    },
+    {
+        "id": 460,
+        "feat_no": 131,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Gale"
+    },
+    {
+        "id": 458,
+        "feat_no": 130,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Hide in Foliage"
+    },
+    {
+        "id": 463,
+        "feat_no": 132,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Bird Strike"
+    },
+    {
+        "id": 461,
+        "feat_no": 131,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Gale"
+    },
+    {
+        "id": 464,
+        "feat_no": 132,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Bird Strike"
+    },
+    {
+        "id": 466,
+        "feat_no": 133,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Crescent Moon"
+    },
+    {
+        "id": 467,
+        "feat_no": 133,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Crescent Moon"
+    },
+    {
+        "id": 459,
+        "feat_no": 130,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Hide in Foliage"
+    },
+    {
+        "id": 462,
+        "feat_no": 131,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Gale"
+    },
+    {
+        "id": 465,
+        "feat_no": 132,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Bird Strike"
+    },
+    {
+        "id": 468,
+        "feat_no": 133,
+        "pow": 10,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Crescent Moon"
+    },
+    {
+        "id": 469,
+        "feat_no": 134,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Casablancan Wind"
+    },
+    {
+        "id": 472,
+        "feat_no": 135,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rhodesian Sea"
+    },
+    {
+        "id": 470,
+        "feat_no": 134,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Casablancan Wind"
+    },
+    {
+        "id": 475,
+        "feat_no": 136,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Madripoor Gridlock"
+    },
+    {
+        "id": 473,
+        "feat_no": 135,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rhodesian Sea"
+    },
+    {
+        "id": 476,
+        "feat_no": 136,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Madripoor Gridlock"
+    },
+    {
+        "id": 478,
+        "feat_no": 137,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Asian Dawn"
+    },
+    {
+        "id": 479,
+        "feat_no": 137,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Asian Dawn"
+    },
+    {
+        "id": 471,
+        "feat_no": 134,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Casablancan Wind"
+    },
+    {
+        "id": 474,
+        "feat_no": 135,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Rhodesian Sea"
+    },
+    {
+        "id": 477,
+        "feat_no": 136,
+        "pow": 99,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Madripoor Gridlock"
+    },
+    {
+        "id": 480,
+        "feat_no": 137,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Asian Dawn"
+    },
+    {
+        "id": 560,
+        "feat_no": 161,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Blue Rose"
+    },
+    {
+        "id": 563,
+        "feat_no": 162,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "White Raven"
+    },
+    {
+        "id": 561,
+        "feat_no": 161,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Blue Rose"
+    },
+    {
+        "id": 566,
+        "feat_no": 163,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Crimson Moon"
+    },
+    {
+        "id": 564,
+        "feat_no": 162,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "White Raven"
+    },
+    {
+        "id": 567,
+        "feat_no": 163,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Crimson Moon"
+    },
+    {
+        "id": 569,
+        "feat_no": 164,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Black Sun"
+    },
+    {
+        "id": 570,
+        "feat_no": 164,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Black Sun"
+    },
+    {
+        "id": 562,
+        "feat_no": 161,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Blue Rose"
+    },
+    {
+        "id": 565,
+        "feat_no": 162,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex White Raven"
+    },
+    {
+        "id": 568,
+        "feat_no": 327,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Crimson Moon"
+    },
+    {
+        "id": 571,
+        "feat_no": 164,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Black Sun"
+    },
+    {
+        "id": 572,
+        "feat_no": 165,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Girasole"
+    },
+    {
+        "id": 575,
+        "feat_no": 166,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Violetta"
+    },
+    {
+        "id": 573,
+        "feat_no": 165,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Girasole"
+    },
+    {
+        "id": 578,
+        "feat_no": 167,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Digitalis"
+    },
+    {
+        "id": 576,
+        "feat_no": 166,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Violetta"
+    },
+    {
+        "id": 579,
+        "feat_no": 167,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Digitalis"
+    },
+    {
+        "id": 581,
+        "feat_no": 168,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rosmarino"
+    },
+    {
+        "id": 582,
+        "feat_no": 168,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rosmarino"
+    },
+    {
+        "id": 574,
+        "feat_no": 165,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Girasole"
+    },
+    {
+        "id": 577,
+        "feat_no": 166,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Violetta"
+    },
+    {
+        "id": 580,
+        "feat_no": 167,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "3010-09-30 08:03:30 UTC",
+        "name": "Ex Digitalis"
+    },
+    {
+        "id": 583,
+        "feat_no": 168,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Rosmarino"
+    },
+    {
+        "id": 584,
+        "feat_no": 169,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Lotus Flower"
+    },
+    {
+        "id": 587,
+        "feat_no": 170,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Iron Stance"
+    },
+    {
+        "id": 585,
+        "feat_no": 169,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Lotus Flower"
+    },
+    {
+        "id": 590,
+        "feat_no": 171,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dustblade"
+    },
+    {
+        "id": 588,
+        "feat_no": 170,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Iron Stance"
+    },
+    {
+        "id": 591,
+        "feat_no": 171,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dustblade"
+    },
+    {
+        "id": 593,
+        "feat_no": 172,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Reverie"
+    },
+    {
+        "id": 594,
+        "feat_no": 172,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Reverie"
+    },
+    {
+        "id": 586,
+        "feat_no": 169,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Lotus Flower"
+    },
+    {
+        "id": 589,
+        "feat_no": 170,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Iron Stance"
+    },
+    {
+        "id": 592,
+        "feat_no": 171,
+        "pow": 15,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Dustblade"
+    },
+    {
+        "id": 595,
+        "feat_no": 172,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Reverie"
+    },
+    {
+        "id": 620,
+        "feat_no": 176,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Hecatomb"
+    },
+    {
+        "id": 623,
+        "feat_no": 177,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Hand of Folly"
+    },
+    {
+        "id": 621,
+        "feat_no": 176,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Hecatomb"
+    },
+    {
+        "id": 626,
+        "feat_no": 178,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Timeseed"
+    },
+    {
+        "id": 624,
+        "feat_no": 177,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Hand of Folly"
+    },
+    {
+        "id": 627,
+        "feat_no": 178,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Timeseed"
+    },
+    {
+        "id": 629,
+        "feat_no": 179,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Iron Gates of Fate"
+    },
+    {
+        "id": 630,
+        "feat_no": 179,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Iron Gates of Fate"
+    },
+    {
+        "id": 622,
+        "feat_no": 176,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Hecatomb"
+    },
+    {
+        "id": 625,
+        "feat_no": 177,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Hand of Folly"
+    },
+    {
+        "id": 628,
+        "feat_no": 178,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Timeseed"
+    },
+    {
+        "id": 631,
+        "feat_no": 179,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Iron Gates of Fate"
+    },
+    {
+        "id": 632,
+        "feat_no": 180,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Gatherer"
+    },
+    {
+        "id": 635,
+        "feat_no": 181,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Judgment"
+    },
+    {
+        "id": 633,
+        "feat_no": 180,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Gatherer"
+    },
+    {
+        "id": 638,
+        "feat_no": 182,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dream"
+    },
+    {
+        "id": 636,
+        "feat_no": 181,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Judgment"
+    },
+    {
+        "id": 639,
+        "feat_no": 182,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dream"
+    },
+    {
+        "id": 641,
+        "feat_no": 183,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "One Above All"
+    },
+    {
+        "id": 642,
+        "feat_no": 183,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "One Above All"
+    },
+    {
+        "id": 634,
+        "feat_no": 180,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Gatherer"
+    },
+    {
+        "id": 637,
+        "feat_no": 181,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Judgment"
+    },
+    {
+        "id": 640,
+        "feat_no": 182,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Judgment"
+    },
+    {
+        "id": 643,
+        "feat_no": 183,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex One Above All"
+    },
+    {
+        "id": 646,
+        "feat_no": 184,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Antiseptic F"
+    },
+    {
+        "id": 649,
+        "feat_no": 185,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Silver Mechanism"
+    },
+    {
+        "id": 647,
+        "feat_no": 184,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Antiseptic F"
+    },
+    {
+        "id": 652,
+        "feat_no": 186,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Atomic Heart"
+    },
+    {
+        "id": 650,
+        "feat_no": 185,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Silver Mechanism"
+    },
+    {
+        "id": 653,
+        "feat_no": 186,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Atomic Heart"
+    },
+    {
+        "id": 655,
+        "feat_no": 187,
+        "pow": 24,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Electrosurgery"
+    },
+    {
+        "id": 656,
+        "feat_no": 187,
+        "pow": 24,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Electrosurgery"
+    },
+    {
+        "id": 648,
+        "feat_no": 184,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Antiseptic F"
+    },
+    {
+        "id": 651,
+        "feat_no": 185,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Silver Mechanism"
+    },
+    {
+        "id": 654,
+        "feat_no": 186,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Atomic Heart"
+    },
+    {
+        "id": 657,
+        "feat_no": 187,
+        "pow": 28,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Electrosurgery"
+    },
+    {
+        "id": 658,
+        "feat_no": 188,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Acid Eater"
+    },
+    {
+        "id": 661,
+        "feat_no": 189,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Deadlock"
+    },
+    {
+        "id": 659,
+        "feat_no": 188,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Acid Eater"
+    },
+    {
+        "id": 664,
+        "feat_no": 190,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Beggar's Banquet"
+    },
+    {
+        "id": 662,
+        "feat_no": 189,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Deadlock"
+    },
+    {
+        "id": 665,
+        "feat_no": 190,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Beggar's Banquet"
+    },
+    {
+        "id": 667,
+        "feat_no": 191,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Swansong"
+    },
+    {
+        "id": 668,
+        "feat_no": 191,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Swansong"
+    },
+    {
+        "id": 660,
+        "feat_no": 188,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Acid Eater"
+    },
+    {
+        "id": 663,
+        "feat_no": 189,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Deadlock"
+    },
+    {
+        "id": 666,
+        "feat_no": 190,
+        "pow": 50,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Beggar's Banquet"
+    },
+    {
+        "id": 669,
+        "feat_no": 191,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Swansong"
+    },
+    {
+        "id": 672,
+        "feat_no": 192,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Loafer's Tombstone"
+    },
+    {
+        "id": 675,
+        "feat_no": 193,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Song of Lament"
+    },
+    {
+        "id": 673,
+        "feat_no": 192,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Loafer's Tombstone"
+    },
+    {
+        "id": 678,
+        "feat_no": 194,
+        "pow": 12,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Crimson Wheel"
+    },
+    {
+        "id": 676,
+        "feat_no": 193,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Song of Lament"
+    },
+    {
+        "id": 679,
+        "feat_no": 194,
+        "pow": 13,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Crimson Wheel"
+    },
+    {
+        "id": 681,
+        "feat_no": 195,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ripe Pomegranate"
+    },
+    {
+        "id": 682,
+        "feat_no": 195,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ripe Pomegranate"
+    },
+    {
+        "id": 674,
+        "feat_no": 192,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Loafer's Tombstone"
+    },
+    {
+        "id": 677,
+        "feat_no": 193,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Song of Lament"
+    },
+    {
+        "id": 680,
+        "feat_no": 194,
+        "pow": 18,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Crimson Wheel"
+    },
+    {
+        "id": 683,
+        "feat_no": 195,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Ripe Pomegranate"
+    },
+    {
+        "id": 684,
+        "feat_no": 196,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Clockwork"
+    },
+    {
+        "id": 687,
+        "feat_no": 197,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Timehunt"
+    },
+    {
+        "id": 685,
+        "feat_no": 196,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Clockwork"
+    },
+    {
+        "id": 690,
+        "feat_no": 198,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Timebomb"
+    },
+    {
+        "id": 688,
+        "feat_no": 197,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Timehunt"
+    },
+    {
+        "id": 691,
+        "feat_no": 198,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Timebomb"
+    },
+    {
+        "id": 693,
+        "feat_no": 199,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Eveningtide"
+    },
+    {
+        "id": 694,
+        "feat_no": 199,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Eveningtide"
+    },
+    {
+        "id": 686,
+        "feat_no": 196,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Clockwork"
+    },
+    {
+        "id": 689,
+        "feat_no": 197,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Timehunt"
+    },
+    {
+        "id": 692,
+        "feat_no": 198,
+        "pow": 11,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Timebomb"
+    },
+    {
+        "id": 695,
+        "feat_no": 199,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Eveningtide"
+    },
+    {
+        "id": 696,
+        "feat_no": 200,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Final Waltz"
+    },
+    {
+        "id": 699,
+        "feat_no": 201,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Desolate Sonata"
+    },
+    {
+        "id": 697,
+        "feat_no": 200,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Final Waltz"
+    },
+    {
+        "id": 702,
+        "feat_no": 202,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "March of the Gladiator"
+    },
+    {
+        "id": 700,
+        "feat_no": 201,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Desolate Sonata"
+    },
+    {
+        "id": 703,
+        "feat_no": 202,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "March of the Gladiator"
+    },
+    {
+        "id": 705,
+        "feat_no": 203,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Requiem for Love and Hate"
+    },
+    {
+        "id": 706,
+        "feat_no": 203,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Requiem for Love and Hate"
+    },
+    {
+        "id": 698,
+        "feat_no": 200,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Final Waltz"
+    },
+    {
+        "id": 701,
+        "feat_no": 201,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Desolate Sonata"
+    },
+    {
+        "id": 704,
+        "feat_no": 202,
+        "pow": 14,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex March of the Gladiator"
+    },
+    {
+        "id": 707,
+        "feat_no": 203,
+        "pow": 10,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Requiem for Love and Hate"
+    },
+    {
+        "id": 708,
+        "feat_no": 204,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Nourishing Milk"
+    },
+    {
+        "id": 711,
+        "feat_no": 205,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Gentle Shot"
+    },
+    {
+        "id": 709,
+        "feat_no": 204,
+        "pow": 10,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Nourishing Milk"
+    },
+    {
+        "id": 714,
+        "feat_no": 206,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Pleasant Transfusion"
+    },
+    {
+        "id": 712,
+        "feat_no": 205,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Gentle Shot"
+    },
+    {
+        "id": 715,
+        "feat_no": 206,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Pleasant Transfusion"
+    },
+    {
+        "id": 717,
+        "feat_no": 207,
+        "pow": 10,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Secret Medicine"
+    },
+    {
+        "id": 718,
+        "feat_no": 207,
+        "pow": 10,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Secret Medicine"
+    },
+    {
+        "id": 710,
+        "feat_no": 204,
+        "pow": 13,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Nourishing Milk"
+    },
+    {
+        "id": 713,
+        "feat_no": 205,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Gentle Shot"
+    },
+    {
+        "id": 716,
+        "feat_no": 206,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Pleasant Transfusion"
+    },
+    {
+        "id": 719,
+        "feat_no": 207,
+        "pow": 20,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Secret Medicine"
+    },
+    {
+        "id": 724,
+        "feat_no": 212,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Furious Anger"
+    },
+    {
+        "id": 727,
+        "feat_no": 213,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Name of Charity"
+    },
+    {
+        "id": 725,
+        "feat_no": 212,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Furious Anger"
+    },
+    {
+        "id": 730,
+        "feat_no": 214,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Good Will"
+    },
+    {
+        "id": 728,
+        "feat_no": 213,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Name of Charity"
+    },
+    {
+        "id": 731,
+        "feat_no": 214,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Good Will"
+    },
+    {
+        "id": 733,
+        "feat_no": 215,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Great Vengeance"
+    },
+    {
+        "id": 734,
+        "feat_no": 215,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Great Vengeance"
+    },
+    {
+        "id": 726,
+        "feat_no": 212,
+        "pow": 10,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Furious Anger"
+    },
+    {
+        "id": 729,
+        "feat_no": 213,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Name of Charity"
+    },
+    {
+        "id": 732,
+        "feat_no": 214,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Good Will"
+    },
+    {
+        "id": 735,
+        "feat_no": 215,
+        "pow": 12,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Great Vengeance"
+    },
+    {
+        "id": 736,
+        "feat_no": 216,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Immaculate Vestment"
+    },
+    {
+        "id": 739,
+        "feat_no": 217,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dazzle"
+    },
+    {
+        "id": 737,
+        "feat_no": 216,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Immaculate Vestment"
+    },
+    {
+        "id": 742,
+        "feat_no": 218,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Transmigratory Cycle"
+    },
+    {
+        "id": 740,
+        "feat_no": 217,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dazzle"
+    },
+    {
+        "id": 743,
+        "feat_no": 218,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Transmigratory Cycle"
+    },
+    {
+        "id": 745,
+        "feat_no": 219,
+        "pow": 99,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Invitation to Paradise"
+    },
+    {
+        "id": 746,
+        "feat_no": 219,
+        "pow": 99,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Invitation to Paradise"
+    },
+    {
+        "id": 738,
+        "feat_no": 216,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Immaculate Vestment"
+    },
+    {
+        "id": 741,
+        "feat_no": 217,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Dazzle"
+    },
+    {
+        "id": 744,
+        "feat_no": 218,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Transmigratory Cycle"
+    },
+    {
+        "id": 747,
+        "feat_no": 219,
+        "pow": 99,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Invitation to Paradise"
+    },
+    {
+        "id": 748,
+        "feat_no": 220,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Memory of Sin"
+    },
+    {
+        "id": 751,
+        "feat_no": 221,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Moan of Apathy"
+    },
+    {
+        "id": 749,
+        "feat_no": 220,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Memory of Sin"
+    },
+    {
+        "id": 754,
+        "feat_no": 222,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Corrupt Lament"
+    },
+    {
+        "id": 752,
+        "feat_no": 221,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Moan of Apathy"
+    },
+    {
+        "id": 755,
+        "feat_no": 222,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Corrupt Lament"
+    },
+    {
+        "id": 757,
+        "feat_no": 223,
+        "pow": 13,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Memory of Failure"
+    },
+    {
+        "id": 758,
+        "feat_no": 223,
+        "pow": 13,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Memory of Failure"
+    },
+    {
+        "id": 750,
+        "feat_no": 220,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Memory of Sin"
+    },
+    {
+        "id": 753,
+        "feat_no": 221,
+        "pow": 10,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Moan of Apathy"
+    },
+    {
+        "id": 756,
+        "feat_no": 222,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Corrupt Lament"
+    },
+    {
+        "id": 759,
+        "feat_no": 223,
+        "pow": 15,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Memory of Failure"
+    },
+    {
+        "id": 760,
+        "feat_no": 224,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Cathedral"
+    },
+    {
+        "id": 763,
+        "feat_no": 225,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Winter Dream"
+    },
+    {
+        "id": 761,
+        "feat_no": 224,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Cathedral"
+    },
+    {
+        "id": 766,
+        "feat_no": 226,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Restful Night"
+    },
+    {
+        "id": 764,
+        "feat_no": 225,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Winter Dream"
+    },
+    {
+        "id": 767,
+        "feat_no": 226,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Restful Night"
+    },
+    {
+        "id": 769,
+        "feat_no": 227,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Reason for Happiness"
+    },
+    {
+        "id": 770,
+        "feat_no": 227,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Reason for Happiness"
+    },
+    {
+        "id": 762,
+        "feat_no": 224,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Cathedral"
+    },
+    {
+        "id": 765,
+        "feat_no": 225,
+        "pow": 10,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Winter Dream"
+    },
+    {
+        "id": 768,
+        "feat_no": 226,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "3010-09-30 08:03:30 UTC",
+        "name": "Ex Restful Night"
+    },
+    {
+        "id": 771,
+        "feat_no": 227,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Reason for Happiness"
+    },
+    {
+        "id": 772,
+        "feat_no": 228,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rud 913"
+    },
+    {
+        "id": 775,
+        "feat_no": 229,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Von 541"
+    },
+    {
+        "id": 773,
+        "feat_no": 228,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Rud 913"
+    },
+    {
+        "id": 778,
+        "feat_no": 230,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Chr 799"
+    },
+    {
+        "id": 776,
+        "feat_no": 229,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Von 541"
+    },
+    {
+        "id": 779,
+        "feat_no": 230,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Chr 799"
+    },
+    {
+        "id": 781,
+        "feat_no": 231,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Wil 846"
+    },
+    {
+        "id": 782,
+        "feat_no": 231,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Wil 846"
+    },
+    {
+        "id": 774,
+        "feat_no": 228,
+        "pow": 10,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Rud 913"
+    },
+    {
+        "id": 777,
+        "feat_no": 229,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Von 541"
+    },
+    {
+        "id": 780,
+        "feat_no": 230,
+        "pow": 9,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Chr 799"
+    },
+    {
+        "id": 783,
+        "feat_no": 231,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Wil 846"
+    },
+    {
+        "id": 814,
+        "feat_no": 239,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Fäulnis Seele"
+    },
+    {
+        "id": 817,
+        "feat_no": 240,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dunkelheit"
+    },
+    {
+        "id": 815,
+        "feat_no": 239,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Fäulnis Seele"
+    },
+    {
+        "id": 820,
+        "feat_no": 241,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Schatten Flügel"
+    },
+    {
+        "id": 818,
+        "feat_no": 240,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dunkelheit"
+    },
+    {
+        "id": 821,
+        "feat_no": 241,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Schatten Flügel"
+    },
+    {
+        "id": 824,
+        "feat_no": 242,
+        "pow": 8,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Wirbel Ritter"
+    },
+    {
+        "id": 816,
+        "feat_no": 239,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Fäulnis Seele"
+    },
+    {
+        "id": 819,
+        "feat_no": 240,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Dunkelheit"
+    },
+    {
+        "id": 822,
+        "feat_no": 241,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Schatten Flügel"
+    },
+    {
+        "id": 825,
+        "feat_no": 242,
+        "pow": 16,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Wirbel Ritter"
+    },
+    {
+        "id": 826,
+        "feat_no": 243,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Cellular Mutation"
+    },
+    {
+        "id": 829,
+        "feat_no": 244,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Scheming Child"
+    },
+    {
+        "id": 827,
+        "feat_no": 243,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Cellular Mutation"
+    },
+    {
+        "id": 832,
+        "feat_no": 245,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Spirit Offering"
+    },
+    {
+        "id": 830,
+        "feat_no": 244,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Scheming Child"
+    },
+    {
+        "id": 833,
+        "feat_no": 245,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Spirit Offering"
+    },
+    {
+        "id": 836,
+        "feat_no": 246,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Last Candle"
+    },
+    {
+        "id": 828,
+        "feat_no": 243,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Cellular Mutation"
+    },
+    {
+        "id": 831,
+        "feat_no": 244,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Scheming Child"
+    },
+    {
+        "id": 834,
+        "feat_no": 245,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Spirit Offering"
+    },
+    {
+        "id": 837,
+        "feat_no": 246,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Last Candle"
+    },
+    {
+        "id": 839,
+        "feat_no": 248,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dream Stick"
+    },
+    {
+        "id": 842,
+        "feat_no": 249,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Wandering Quill"
+    },
+    {
+        "id": 840,
+        "feat_no": 248,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Dream Stick"
+    },
+    {
+        "id": 845,
+        "feat_no": 250,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ophelia's Dream"
+    },
+    {
+        "id": 843,
+        "feat_no": 249,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Wandering Quill"
+    },
+    {
+        "id": 846,
+        "feat_no": 250,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ophelia's Dream"
+    },
+    {
+        "id": 849,
+        "feat_no": 251,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Reve's Cradle"
+    },
+    {
+        "id": 841,
+        "feat_no": 248,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Dream Stick"
+    },
+    {
+        "id": 844,
+        "feat_no": 249,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Wandering Quill"
+    },
+    {
+        "id": 847,
+        "feat_no": 250,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Ophelia's Dream"
+    },
+    {
+        "id": 850,
+        "feat_no": 251,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Reve's Cradle"
+    },
+    {
+        "id": 853,
+        "feat_no": 252,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Vivid Flash of Evilness"
+    },
+    {
+        "id": 856,
+        "feat_no": 253,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Diabolism of the Transcendental One"
+    },
+    {
+        "id": 854,
+        "feat_no": 252,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Vivid Flash of Evilness"
+    },
+    {
+        "id": 859,
+        "feat_no": 254,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Curse of Desecration"
+    },
+    {
+        "id": 857,
+        "feat_no": 253,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Diabolism of the Transcendental One"
+    },
+    {
+        "id": 860,
+        "feat_no": 254,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Curse of Desecration"
+    },
+    {
+        "id": 863,
+        "feat_no": 255,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "End of the Finale"
+    },
+    {
+        "id": 855,
+        "feat_no": 252,
+        "pow": 9,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Vivid Flash of Evilness"
+    },
+    {
+        "id": 858,
+        "feat_no": 253,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Diabolism of the Transcendental One"
+    },
+    {
+        "id": 861,
+        "feat_no": 254,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex Curse of Desecration"
+    },
+    {
+        "id": 864,
+        "feat_no": 255,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "2010-09-20 08:02:20 UTC",
+        "name": "Ex End of the Finale"
+    },
+    {
+        "id": 903,
+        "feat_no": 269,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Mace of Iniquity"
+    },
+    {
+        "id": 906,
+        "feat_no": 270,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Depraved Belief"
+    },
+    {
+        "id": 904,
+        "feat_no": 269,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Mace of Iniquity"
+    },
+    {
+        "id": 909,
+        "feat_no": 271,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Wicked Peace"
+    },
+    {
+        "id": 907,
+        "feat_no": 270,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Depraved Belief"
+    },
+    {
+        "id": 915,
+        "feat_no": 269,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Mace of Iniquity"
+    },
+    {
+        "id": 916,
+        "feat_no": 270,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Depraved Belief"
+    },
+    {
+        "id": 917,
+        "feat_no": 271,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Wicked Peace"
+    },
+    {
+        "id": 913,
+        "feat_no": 272,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Over Drive"
+    },
+    {
+        "id": 905,
+        "feat_no": 269,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Mace of Iniquity"
+    },
+    {
+        "id": 908,
+        "feat_no": 270,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Depraved Belief"
+    },
+    {
+        "id": 910,
+        "feat_no": 271,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Wicked Peace"
+    },
+    {
+        "id": 911,
+        "feat_no": 271,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Wicked Peace"
+    },
+    {
+        "id": 914,
+        "feat_no": 272,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Over Drive"
+    },
+    {
+        "id": 944,
+        "feat_no": 276,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Araneum"
+    },
+    {
+        "id": 947,
+        "feat_no": 278,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Alvus"
+    },
+    {
+        "id": 945,
+        "feat_no": 276,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Araneum"
+    },
+    {
+        "id": 950,
+        "feat_no": 277,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Papiliosaltans"
+    },
+    {
+        "id": 948,
+        "feat_no": 278,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Alvus"
+    },
+    {
+        "id": 951,
+        "feat_no": 277,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Papiliosaltans"
+    },
+    {
+        "id": 954,
+        "feat_no": 279,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Insectatibia"
+    },
+    {
+        "id": 946,
+        "feat_no": 276,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "ExAraneum"
+    },
+    {
+        "id": 949,
+        "feat_no": 278,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "ExAlvus"
+    },
+    {
+        "id": 952,
+        "feat_no": 277,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "ExPapiliosaltans"
+    },
+    {
+        "id": 955,
+        "feat_no": 279,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "ExInsectatibia"
+    },
+    {
+        "id": 986,
+        "feat_no": 290,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Splitting Mirage"
+    },
+    {
+        "id": 989,
+        "feat_no": 291,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Pounding Rain"
+    },
+    {
+        "id": 987,
+        "feat_no": 290,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Splitting Mirage"
+    },
+    {
+        "id": 992,
+        "feat_no": 292,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Embracing Ward"
+    },
+    {
+        "id": 990,
+        "feat_no": 291,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Pounding Rain"
+    },
+    {
+        "id": 993,
+        "feat_no": 292,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Embracing Ward"
+    },
+    {
+        "id": 996,
+        "feat_no": 293,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Falling Star"
+    },
+    {
+        "id": 988,
+        "feat_no": 290,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Splitting Mirage"
+    },
+    {
+        "id": 991,
+        "feat_no": 291,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "EX Pounding Rain"
+    },
+    {
+        "id": 994,
+        "feat_no": 292,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Embracing Ward"
+    },
+    {
+        "id": 997,
+        "feat_no": 293,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "EX Falling Star"
+    },
+    {
+        "id": 1020,
+        "feat_no": 304,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Get fascinated by my swordsmanship!"
+    },
+    {
+        "id": 1023,
+        "feat_no": 305,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Where the hell are you lookin' at!"
+    },
+    {
+        "id": 1021,
+        "feat_no": 304,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Get fascinated by my swordsmanship!"
+    },
+    {
+        "id": 1026,
+        "feat_no": 306,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "I've seen through your skills!"
+    },
+    {
+        "id": 1024,
+        "feat_no": 305,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Where the hell are you lookin' at!"
+    },
+    {
+        "id": 1027,
+        "feat_no": 306,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "I've seen through your skills!"
+    },
+    {
+        "id": 1030,
+        "feat_no": 307,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "This is my true power!"
+    },
+    {
+        "id": 1022,
+        "feat_no": 304,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Get fascinated by my swordsmanship!"
+    },
+    {
+        "id": 1025,
+        "feat_no": 305,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Where the hell are you lookin' at!"
+    },
+    {
+        "id": 1028,
+        "feat_no": 306,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex I've seen through your skills!"
+    },
+    {
+        "id": 1031,
+        "feat_no": 307,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex This is my true power!"
+    },
+    {
+        "id": 1062,
+        "feat_no": 318,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Rolling Ball"
+    },
+    {
+        "id": 1065,
+        "feat_no": 317,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Playing Piano"
+    },
+    {
+        "id": 1063,
+        "feat_no": 318,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Rolling Ball"
+    },
+    {
+        "id": 1068,
+        "feat_no": 316,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Fire Hoop"
+    },
+    {
+        "id": 1066,
+        "feat_no": 317,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Playing Piano"
+    },
+    {
+        "id": 1069,
+        "feat_no": 316,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Fire Hoop"
+    },
+    {
+        "id": 1072,
+        "feat_no": 319,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Making Trouble"
+    },
+    {
+        "id": 1064,
+        "feat_no": 318,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Rolling Ball"
+    },
+    {
+        "id": 1067,
+        "feat_no": 317,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Playing Piano"
+    },
+    {
+        "id": 1070,
+        "feat_no": 316,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "EX Fire Hoop"
+    },
+    {
+        "id": 1073,
+        "feat_no": 319,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "EX Making Trouble"
+    },
+    {
+        "id": 1074,
+        "feat_no": 318,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Rolling Ball"
+    },
+    {
+        "id": 1077,
+        "feat_no": 317,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Playing Piano"
+    },
+    {
+        "id": 1075,
+        "feat_no": 318,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Rolling Ball"
+    },
+    {
+        "id": 1080,
+        "feat_no": 316,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Fire Hoop"
+    },
+    {
+        "id": 1078,
+        "feat_no": 317,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Playing Piano"
+    },
+    {
+        "id": 1081,
+        "feat_no": 316,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Fire Hoop"
+    },
+    {
+        "id": 1084,
+        "feat_no": 319,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Making Trouble"
+    },
+    {
+        "id": 1076,
+        "feat_no": 318,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Rolling Ball"
+    },
+    {
+        "id": 1079,
+        "feat_no": 317,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Playing Piano"
+    },
+    {
+        "id": 1082,
+        "feat_no": 316,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "EX Fire Hoop"
+    },
+    {
+        "id": 1085,
+        "feat_no": 319,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "EX Making Trouble"
+    },
+    {
+        "id": 1089,
+        "feat_no": 320,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "White Baby Goat"
+    },
+    {
+        "id": 1092,
+        "feat_no": 321,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Staff of All Things"
+    },
+    {
+        "id": 1090,
+        "feat_no": 320,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "White Baby Goat"
+    },
+    {
+        "id": 1095,
+        "feat_no": 322,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Eternal White"
+    },
+    {
+        "id": 1093,
+        "feat_no": 321,
+        "pow": 1,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Staff of All Things"
+    },
+    {
+        "id": 1096,
+        "feat_no": 322,
+        "pow": 1,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Eternal White"
+    },
+    {
+        "id": 1099,
+        "feat_no": 323,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Kiss of Harvest"
+    },
+    {
+        "id": 1091,
+        "feat_no": 320,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX White Baby Goat"
+    },
+    {
+        "id": 1094,
+        "feat_no": 321,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "EX Staff of All Things"
+    },
+    {
+        "id": 1097,
+        "feat_no": 322,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "EX Eternal White"
+    },
+    {
+        "id": 1100,
+        "feat_no": 323,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Kiss of Harvest"
+    },
+    {
+        "id": 1127,
+        "feat_no": 333,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Lurking Mist"
+    },
+    {
+        "id": 1130,
+        "feat_no": 334,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Rippling Pulse"
+    },
+    {
+        "id": 1128,
+        "feat_no": 333,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Lurking Mist"
+    },
+    {
+        "id": 1133,
+        "feat_no": 335,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Water Spear"
+    },
+    {
+        "id": 1131,
+        "feat_no": 334,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Rippling Pulse"
+    },
+    {
+        "id": 1134,
+        "feat_no": 335,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Water Spear"
+    },
+    {
+        "id": 1137,
+        "feat_no": 336,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Acid Rain"
+    },
+    {
+        "id": 1129,
+        "feat_no": 333,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Lurking Mist"
+    },
+    {
+        "id": 1132,
+        "feat_no": 334,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Rippling Pulse"
+    },
+    {
+        "id": 1135,
+        "feat_no": 335,
+        "pow": 8,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "EX Water Spear"
+    },
+    {
+        "id": 1138,
+        "feat_no": 336,
+        "pow": 15,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "EX Acid Rain"
+    },
+    {
+        "id": 1151,
+        "feat_no": 340,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Retribution"
+    },
+    {
+        "id": 1154,
+        "feat_no": 341,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Deep Fury"
+    },
+    {
+        "id": 1152,
+        "feat_no": 340,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Retribution"
+    },
+    {
+        "id": 1157,
+        "feat_no": 342,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Phantom Memory"
+    },
+    {
+        "id": 1155,
+        "feat_no": 341,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Deep Fury"
+    },
+    {
+        "id": 1158,
+        "feat_no": 342,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Phantom Memory"
+    },
+    {
+        "id": 1161,
+        "feat_no": 343,
+        "pow": 13,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ill Intentions"
+    },
+    {
+        "id": 1153,
+        "feat_no": 340,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "EX Retribution"
+    },
+    {
+        "id": 1156,
+        "feat_no": 341,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Deep Fury"
+    },
+    {
+        "id": 1159,
+        "feat_no": 342,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Phantom Memory"
+    },
+    {
+        "id": 1162,
+        "feat_no": 343,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "EX Ill Intentions"
+    },
+    {
+        "id": 1181,
+        "feat_no": 347,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Tracking Owl"
+    },
+    {
+        "id": 1184,
+        "feat_no": 348,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Phantom Shot"
+    },
+    {
+        "id": 1182,
+        "feat_no": 347,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Tracking Owl"
+    },
+    {
+        "id": 1187,
+        "feat_no": 349,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Illusions"
+    },
+    {
+        "id": 1185,
+        "feat_no": 348,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Phantom Shot"
+    },
+    {
+        "id": 1188,
+        "feat_no": 349,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Illusions"
+    },
+    {
+        "id": 1191,
+        "feat_no": 350,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Final Shot"
+    },
+    {
+        "id": 1183,
+        "feat_no": 347,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Tracking Owl"
+    },
+    {
+        "id": 1186,
+        "feat_no": 348,
+        "pow": 10,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "EX Phantom Shot"
+    },
+    {
+        "id": 1189,
+        "feat_no": 349,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "EX Illusions"
+    },
+    {
+        "id": 1192,
+        "feat_no": 350,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "EX Final Shot"
+    },
+    {
+        "id": 1193,
+        "feat_no": 351,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Barbed Victim"
+    },
+    {
+        "id": 1196,
+        "feat_no": 352,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Sink Ivy"
+    },
+    {
+        "id": 1194,
+        "feat_no": 351,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Barbed Victim"
+    },
+    {
+        "id": 1199,
+        "feat_no": 353,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Refusal Ray"
+    },
+    {
+        "id": 1197,
+        "feat_no": 352,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Sink Ivy"
+    },
+    {
+        "id": 1200,
+        "feat_no": 353,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Refusal Ray"
+    },
+    {
+        "id": 1203,
+        "feat_no": 354,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Negative Gift"
+    },
+    {
+        "id": 1195,
+        "feat_no": 351,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Barbed Victim"
+    },
+    {
+        "id": 1198,
+        "feat_no": 352,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Sink Ivy"
+    },
+    {
+        "id": 1201,
+        "feat_no": 353,
+        "pow": 12,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Refusal Ray"
+    },
+    {
+        "id": 1204,
+        "feat_no": 354,
+        "pow": 12,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Negative Gift"
+    },
+    {
+        "id": 1207,
+        "feat_no": 356,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Shadow Sewing"
+    },
+    {
+        "id": 1210,
+        "feat_no": 357,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Tactic for Mistakes"
+    },
+    {
+        "id": 1208,
+        "feat_no": 356,
+        "pow": 10,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Shadow Sewing"
+    },
+    {
+        "id": 1213,
+        "feat_no": 358,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Adaptation"
+    },
+    {
+        "id": 1211,
+        "feat_no": 357,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Tactic for Mistakes"
+    },
+    {
+        "id": 1214,
+        "feat_no": 358,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Adaptation"
+    },
+    {
+        "id": 1217,
+        "feat_no": 359,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Godly Thievery"
+    },
+    {
+        "id": 1209,
+        "feat_no": 356,
+        "pow": 13,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Shadow Sewing"
+    },
+    {
+        "id": 1212,
+        "feat_no": 357,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Tactic for Mistakes"
+    },
+    {
+        "id": 1215,
+        "feat_no": 358,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Adaptation"
+    },
+    {
+        "id": 1218,
+        "feat_no": 359,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Godly Thievery"
+    },
+    {
+        "id": 1219,
+        "feat_no": 360,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Law of Horror"
+    },
+    {
+        "id": 1222,
+        "feat_no": 361,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Principle of Illness"
+    },
+    {
+        "id": 1220,
+        "feat_no": 360,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Law of Horror"
+    },
+    {
+        "id": 1225,
+        "feat_no": 362,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Theory of Nursing"
+    },
+    {
+        "id": 1223,
+        "feat_no": 361,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Principle of Illness"
+    },
+    {
+        "id": 1226,
+        "feat_no": 362,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Theory of Nursing"
+    },
+    {
+        "id": 1229,
+        "feat_no": 363,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Final Theorem of Cruelty"
+    },
+    {
+        "id": 1221,
+        "feat_no": 360,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Law of Horror"
+    },
+    {
+        "id": 1224,
+        "feat_no": 361,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Principle of Illness"
+    },
+    {
+        "id": 1227,
+        "feat_no": 362,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Theory of Nursing"
+    },
+    {
+        "id": 1230,
+        "feat_no": 363,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Ex Final Theorem of Cruelty"
+    },
+    {
+        "id": 1255,
+        "feat_no": 368,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Miracle Squash"
+    },
+    {
+        "id": 1258,
+        "feat_no": 369,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Soul Imitation"
+    },
+    {
+        "id": 1256,
+        "feat_no": 368,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Miracle Squash"
+    },
+    {
+        "id": 1261,
+        "feat_no": 370,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "I Choose You!"
+    },
+    {
+        "id": 1259,
+        "feat_no": 369,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Soul Imitation"
+    },
+    {
+        "id": 1262,
+        "feat_no": 370,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "I Choose You!"
+    },
+    {
+        "id": 1264,
+        "feat_no": 371,
+        "pow": 0,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Trouble Craft"
+    },
+    {
+        "id": 1257,
+        "feat_no": 368,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Miracle Squash"
+    },
+    {
+        "id": 1260,
+        "feat_no": 369,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Soul Imitation"
+    },
+    {
+        "id": 1263,
+        "feat_no": 370,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Ex I Choose You!"
+    },
+    {
+        "id": 1266,
+        "feat_no": 371,
+        "pow": 2,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Trouble Craft"
+    },
+    {
+        "id": 1268,
+        "feat_no": 372,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Guide to Dusk"
+    },
+    {
+        "id": 1271,
+        "feat_no": 374,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Strike of Gravity"
+    },
+    {
+        "id": 1269,
+        "feat_no": 372,
+        "pow": 10,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Guide to Dusk"
+    },
+    {
+        "id": 1274,
+        "feat_no": 373,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Gate of Lohengrin"
+    },
+    {
+        "id": 1272,
+        "feat_no": 374,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Strike of Gravity"
+    },
+    {
+        "id": 1275,
+        "feat_no": 373,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Gate of Lohengrin"
+    },
+    {
+        "id": 1278,
+        "feat_no": 375,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Blinding Blades"
+    },
+    {
+        "id": 1270,
+        "feat_no": 372,
+        "pow": 15,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Guide to Dusk"
+    },
+    {
+        "id": 1273,
+        "feat_no": 374,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Strike of Gravity"
+    },
+    {
+        "id": 1276,
+        "feat_no": 373,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Gate of Lohengrin"
+    },
+    {
+        "id": 1279,
+        "feat_no": 375,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Blinding Blades"
+    },
+    {
+        "id": 1310,
+        "feat_no": 63,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Dimensional Crossing"
+    },
+    {
+        "id": 1313,
+        "feat_no": 381,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Dimensional Plunder"
+    },
+    {
+        "id": 1311,
+        "feat_no": 63,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Dimensional Crossing"
+    },
+    {
+        "id": 1316,
+        "feat_no": 382,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Dimensional Traction"
+    },
+    {
+        "id": 1314,
+        "feat_no": 381,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Dimensional Plunder"
+    },
+    {
+        "id": 1317,
+        "feat_no": 382,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Dimensional Traction"
+    },
+    {
+        "id": 1320,
+        "feat_no": 383,
+        "pow": 4,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Dimensional Invasion"
+    },
+    {
+        "id": 1312,
+        "feat_no": 63,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Dimensional Crossing"
+    },
+    {
+        "id": 1315,
+        "feat_no": 381,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Dimensional Plunder"
+    },
+    {
+        "id": 1318,
+        "feat_no": 382,
+        "pow": 8,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Dimensional Traction"
+    },
+    {
+        "id": 1321,
+        "feat_no": 383,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Ex Dimensional Invasion"
+    },
+    {
+        "id": 1337,
+        "feat_no": 387,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Scratch Fire"
+    },
+    {
+        "id": 1340,
+        "feat_no": 386,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Purple Rampage"
+    },
+    {
+        "id": 1338,
+        "feat_no": 387,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Scratch Fire"
+    },
+    {
+        "id": 1343,
+        "feat_no": 388,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Break Barrett"
+    },
+    {
+        "id": 1341,
+        "feat_no": 386,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Purple Rampage"
+    },
+    {
+        "id": 1344,
+        "feat_no": 388,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Break Barrett"
+    },
+    {
+        "id": 1347,
+        "feat_no": 389,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Fanatic Step"
+    },
+    {
+        "id": 1339,
+        "feat_no": 387,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Scratch Fire"
+    },
+    {
+        "id": 1342,
+        "feat_no": 386,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Purple Rampage"
+    },
+    {
+        "id": 1345,
+        "feat_no": 388,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Break Barrett"
+    },
+    {
+        "id": 1348,
+        "feat_no": 389,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Fanatic Step"
+    },
+    {
+        "id": 1361,
+        "feat_no": 391,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Lingering Light"
+    },
+    {
+        "id": 1364,
+        "feat_no": 392,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Light of Denial"
+    },
+    {
+        "id": 1362,
+        "feat_no": 391,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Lingering Light"
+    },
+    {
+        "id": 1367,
+        "feat_no": 120,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Glaring Blade"
+    },
+    {
+        "id": 1365,
+        "feat_no": 392,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Light of Denial"
+    },
+    {
+        "id": 1368,
+        "feat_no": 120,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Glaring Blade"
+    },
+    {
+        "id": 1371,
+        "feat_no": 393,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Last Light Defender"
+    },
+    {
+        "id": 1363,
+        "feat_no": 391,
+        "pow": 12,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Lingering Light"
+    },
+    {
+        "id": 1366,
+        "feat_no": 392,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Light of Denial"
+    },
+    {
+        "id": 1369,
+        "feat_no": 120,
+        "pow": 11,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Ex Glaring Blade"
+    },
+    {
+        "id": 1372,
+        "feat_no": 393,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Last Light Defender"
+    },
+    {
+        "id": 1374,
+        "feat_no": 64,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Hawk Javelin"
+    },
+    {
+        "id": 1377,
+        "feat_no": 122,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Blood Absorb"
+    },
+    {
+        "id": 1375,
+        "feat_no": 64,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Hawk Javelin"
+    },
+    {
+        "id": 1380,
+        "feat_no": 218,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Comet Strike"
+    },
+    {
+        "id": 1378,
+        "feat_no": 122,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Blood Absorb"
+    },
+    {
+        "id": 1381,
+        "feat_no": 218,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Comet Strike"
+    },
+    {
+        "id": 1384,
+        "feat_no": 394,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Healing Shock"
+    },
+    {
+        "id": 1376,
+        "feat_no": 64,
+        "pow": 16,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Hawk Javelin"
+    },
+    {
+        "id": 1379,
+        "feat_no": 122,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Blood Absorb"
+    },
+    {
+        "id": 1382,
+        "feat_no": 218,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Comet Strike"
+    },
+    {
+        "id": 1385,
+        "feat_no": 394,
+        "pow": 10,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Healing Shock"
+    },
+    {
+        "id": 1386,
+        "feat_no": 395,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ground Bomb"
+    },
+    {
+        "id": 1389,
+        "feat_no": 396,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Trap Setting"
+    },
+    {
+        "id": 1387,
+        "feat_no": 395,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ground Bomb"
+    },
+    {
+        "id": 1392,
+        "feat_no": 397,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Panic Grenade"
+    },
+    {
+        "id": 1390,
+        "feat_no": 396,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Trap Setting"
+    },
+    {
+        "id": 1393,
+        "feat_no": 397,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Panic Grenade"
+    },
+    {
+        "id": 1396,
+        "feat_no": 398,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Fire Back"
+    },
+    {
+        "id": 1388,
+        "feat_no": 395,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Ground Bomb"
+    },
+    {
+        "id": 1391,
+        "feat_no": 396,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Trap Setting"
+    },
+    {
+        "id": 1394,
+        "feat_no": 397,
+        "pow": 12,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Ex Panic Grenade"
+    },
+    {
+        "id": 1397,
+        "feat_no": 398,
+        "pow": 10,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Fire Back"
+    },
+    {
+        "id": 1410,
+        "feat_no": 400,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Spread of Troy"
+    },
+    {
+        "id": 1413,
+        "feat_no": 401,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Wall of Troy"
+    },
+    {
+        "id": 1411,
+        "feat_no": 400,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Spread of Troy"
+    },
+    {
+        "id": 1416,
+        "feat_no": 402,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Marcus"
+    },
+    {
+        "id": 1414,
+        "feat_no": 401,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Wall of Troy"
+    },
+    {
+        "id": 1417,
+        "feat_no": 402,
+        "pow": 6,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Marcus"
+    },
+    {
+        "id": 1420,
+        "feat_no": 403,
+        "pow": 3,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Hyperlius"
+    },
+    {
+        "id": 1412,
+        "feat_no": 400,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Spread of Troy"
+    },
+    {
+        "id": 1415,
+        "feat_no": 401,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Wall of Troy"
+    },
+    {
+        "id": 1418,
+        "feat_no": 402,
+        "pow": 7,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Ex Marcus"
+    },
+    {
+        "id": 1421,
+        "feat_no": 403,
+        "pow": 5,
+        "dice_attribute": "special",
+        "created_at": "",
+        "name": "Ex Hyperlius"
+    },
+    {
+        "id": 1422,
+        "feat_no": 404,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "The Flinging Sword Dance"
+    },
+    {
+        "id": 1425,
+        "feat_no": 405,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ceremony of the Brave"
+    },
+    {
+        "id": 1423,
+        "feat_no": 404,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "The Flinging Sword Dance"
+    },
+    {
+        "id": 1428,
+        "feat_no": 406,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Sword of the Cheetah"
+    },
+    {
+        "id": 1426,
+        "feat_no": 405,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ceremony of the Brave"
+    },
+    {
+        "id": 1429,
+        "feat_no": 406,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Sword of the Cheetah"
+    },
+    {
+        "id": 1432,
+        "feat_no": 407,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "First Step to Scouting"
+    },
+    {
+        "id": 1424,
+        "feat_no": 404,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "The Flinging Sword Dance"
+    },
+    {
+        "id": 1427,
+        "feat_no": 405,
+        "pow": 7,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Ceremony of the Brave"
+    },
+    {
+        "id": 1430,
+        "feat_no": 406,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Sword of the Cheetah"
+    },
+    {
+        "id": 1433,
+        "feat_no": 407,
+        "pow": 15,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex First Step to Scouting"
+    },
+    {
+        "id": 1470,
+        "feat_no": 408,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Toxic Doll"
+    },
+    {
+        "id": 1473,
+        "feat_no": 409,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Dangerous Doll"
+    },
+    {
+        "id": 1471,
+        "feat_no": 408,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Toxic Doll"
+    },
+    {
+        "id": 1476,
+        "feat_no": 410,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Dolly Hallucination"
+    },
+    {
+        "id": 1474,
+        "feat_no": 409,
+        "pow": 1,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Dangerous Doll"
+    },
+    {
+        "id": 1477,
+        "feat_no": 410,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Dolly Hallucination"
+    },
+    {
+        "id": 1480,
+        "feat_no": 411,
+        "pow": 0,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "D of D"
+    },
+    {
+        "id": 1472,
+        "feat_no": 408,
+        "pow": 8,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Toxic Doll"
+    },
+    {
+        "id": 1475,
+        "feat_no": 409,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex Dangerous Doll"
+    },
+    {
+        "id": 1478,
+        "feat_no": 410,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": "Ex Dolly Hallucination"
+    },
+    {
+        "id": 1481,
+        "feat_no": 411,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": "Ex D of D"
+    },
+    {
+        "id": 1482,
+        "feat_no": 412,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1485,
+        "feat_no": 413,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1483,
+        "feat_no": 412,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1488,
+        "feat_no": 414,
+        "pow": 5,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1486,
+        "feat_no": 413,
+        "pow": 3,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1489,
+        "feat_no": 414,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1492,
+        "feat_no": 415,
+        "pow": 19,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1484,
+        "feat_no": 412,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1487,
+        "feat_no": 413,
+        "pow": 6,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1490,
+        "feat_no": 414,
+        "pow": 9,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1493,
+        "feat_no": 415,
+        "pow": 27,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1506,
+        "feat_no": 418,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1509,
+        "feat_no": 419,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1507,
+        "feat_no": 418,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1512,
+        "feat_no": 420,
+        "pow": 2,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1510,
+        "feat_no": 419,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1513,
+        "feat_no": 420,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1516,
+        "feat_no": 421,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1508,
+        "feat_no": 418,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1511,
+        "feat_no": 419,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1514,
+        "feat_no": 420,
+        "pow": 4,
+        "dice_attribute": "physical",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1517,
+        "feat_no": 421,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1530,
+        "feat_no": 422,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1533,
+        "feat_no": 423,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1531,
+        "feat_no": 422,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1536,
+        "feat_no": 424,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1534,
+        "feat_no": 423,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1537,
+        "feat_no": 424,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1540,
+        "feat_no": 425,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1532,
+        "feat_no": 422,
+        "pow": 9,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1535,
+        "feat_no": 423,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1538,
+        "feat_no": 424,
+        "pow": 7,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1541,
+        "feat_no": 425,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1542,
+        "feat_no": 426,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1545,
+        "feat_no": 427,
+        "pow": 0,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1543,
+        "feat_no": 426,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1548,
+        "feat_no": 428,
+        "pow": 3,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1546,
+        "feat_no": 427,
+        "pow": 1,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1549,
+        "feat_no": 428,
+        "pow": 4,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1552,
+        "feat_no": 429,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1544,
+        "feat_no": 426,
+        "pow": 6,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1547,
+        "feat_no": 427,
+        "pow": 2,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1550,
+        "feat_no": 428,
+        "pow": 5,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    },
+    {
+        "id": 1553,
+        "feat_no": 429,
+        "pow": 12,
+        "dice_attribute": "",
+        "created_at": "",
+        "name": ""
+    }
+]

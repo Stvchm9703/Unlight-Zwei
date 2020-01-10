@@ -1,0 +1,15 @@
+// Example IDL file for our monster's schema.
+namespace Fbs;
+table Skill {
+  id:int32;
+  feat_no:int8;
+  pow:int16;
+  dice_attr:string;
+  name:string;
+  trig_func:[ubyte];  
+}
+table SkillList {
+  skill_list:[Skill];
+  last_updated:string;
+}
+root_type SkillList;

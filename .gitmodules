@@ -7,12 +7,3 @@
 	url = https://github.com/Stvchm9703/Unlight-Zwei-ScptRunner.git
 
 
-[submodule "room_manager"]
-	path = room_manager
-	# url = 
-
-[submodule "gameduel_manager"]
-	path = gameduel_manager
-
-
-[submodule ""]

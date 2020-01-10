@@ -1,0 +1,321 @@
+[
+    {
+        "id": 1410,
+        "feat_no": 400,
+        "pow": 1,
+        "dice_attribute": "",
+        "effect_image": "cutinchara71_skl00.swf",
+        "condition": "LMS:E1+",
+        "created_at": "",
+        "name": {
+            "jp": "Ｔ・スキャッター",
+            "en": "Spread of Troy",
+            "fr": "T-Scatter",
+            "kr": "",
+            "scn": "特洛伊扩散",
+            "tcn": "特洛伊擴散",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[移動:__CONDITION__]発動時、デッキの上から7枚目までのどこかに__POW__枚ウイルスカードを仕込む|攻性ウィルスを戦場にばら撒く",
+            "en": "[移動:__CONDITION__]When dealt, __POW__ virus cards will be randomly inserted to the first 7 cards of the deck.|Spreading deadly viruses to the battlefield.",
+            "fr": "[移動:__CONDITION__]Lors de son usage, vous glissez __POW__ cartes Virus dans la pioche, entre les sept premières cartes.|Vous éparpillez un virus agressif sur le champ de bataille. ",
+            "kr": "",
+            "scn": "[移動:__CONDITION__]发动时，在牌组上前7张内随机放入__POW__张病毒卡|将攻击性的病毒扩散在战场上。",
+            "tcn": "[移動:__CONDITION__]發動時，在牌組上前7張內隨機放入__POW__張病毒卡|將攻擊性的病毒擴散在戰場上。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1413,
+        "feat_no": 401,
+        "pow": 4,
+        "dice_attribute": "",
+        "effect_image": "cutinchara71_skl01.swf",
+        "condition": "LM:D3+",
+        "created_at": "",
+        "name": {
+            "jp": "Ｔ・ウォール",
+            "en": "Wall of Troy",
+            "fr": "T-Wall",
+            "kr": "",
+            "scn": "特洛伊防壁",
+            "tcn": "特洛伊防壁",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[防御:__CONDITION__]DEF+__POW__,かつウイルスの所持枚数x6の防御力を加算する。ウイルスを1枚破棄|手駒による防御壁",
+            "en": "[防御:__CONDITION__]DEF+__POW__, and increase defense by 5 times the number of virus cards. Abandon 1 virus card.|A defensive wall built by your men.",
+            "fr": "[防御:__CONDITION__]DEF+__POW__, Vous augmentez votre capacité de défense de nombre de cartes Virus x5. Vous détruisez une carte Virus.|Mur protecteur créé par vos pions.",
+            "kr": "",
+            "scn": "[防御:__CONDITION__]DEF+__POW__,并且再加上所持病毒卡张数x6的防御力。丢弃1张病毒卡|由手下们所展开的防御壁。",
+            "tcn": "[防御:__CONDITION__]DEF+__POW__,並且再加上所持病毒卡張數x6的防禦力。丟棄1張病毒卡|由手下們所展開的防禦壁。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1411,
+        "feat_no": 400,
+        "pow": 1,
+        "dice_attribute": "",
+        "effect_image": "cutinchara71_skl00.swf",
+        "condition": "LMS:E1+",
+        "created_at": "",
+        "name": {
+            "jp": "Ｔ・スキャッター",
+            "en": "Spread of Troy",
+            "fr": "T-Scatter",
+            "kr": "",
+            "scn": "特洛伊扩散",
+            "tcn": "特洛伊擴散",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[移動:__CONDITION__]発動時、デッキの上から7枚目までのどこかに__POW__枚ウイルスカードを仕込む|攻性ウィルスを戦場にばら撒く",
+            "en": "[移動:__CONDITION__]When dealt, __POW__ virus cards will be randomly inserted to the first 7 cards of the deck.|Spreading deadly viruses to the battlefield.",
+            "fr": "[移動:__CONDITION__]Lors de son usage, vous glissez __POW__ cartes Virus dans la pioche, entre les sept premières cartes.|Vous éparpillez un virus agressif sur le champ de bataille. ",
+            "kr": "",
+            "scn": "[移動:__CONDITION__]发动时，在牌组上前7张内随机放入__POW__张病毒卡|将攻击性的病毒扩散在战场上。",
+            "tcn": "[移動:__CONDITION__]發動時，在牌組上前7張內隨機放入__POW__張病毒卡|將攻擊性的病毒擴散在戰場上。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1416,
+        "feat_no": 402,
+        "pow": 5,
+        "dice_attribute": "special",
+        "effect_image": "cutinchara71_skl02.swf",
+        "condition": "LM:A3+",
+        "created_at": "",
+        "name": {
+            "jp": "マジストラ",
+            "en": "Marcus",
+            "fr": "Magistrat",
+            "kr": "",
+            "scn": "玛基斯托",
+            "tcn": "瑪基斯托",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[攻撃:__CONDITION__]ATK+__POW__,かつウイルスの所持枚数x2の追加ダメージを付与する。ウイルスを1枚破棄|襲い来る駒たち",
+            "en": "[攻撃:__CONDITION__]ATK+__POW__, and add damage by 2 times the number of virus cards. Abandon 1 virus card.|A wave of attacking men.",
+            "fr": "[攻撃:__CONDITION__]ATK+__POW__, Vous transformez le nombre de cartes Virus x2 en dommages supplémentaires. Vous détruisez une carte Virus.|Attaque de pions.",
+            "kr": "",
+            "scn": "[攻撃:__CONDITION__]ATK+__POW__,并且再加上所持病毒卡张数x2的追加伤害。丢弃1张病毒卡|袭击而来的手下们。",
+            "tcn": "[攻撃:__CONDITION__]ATK+__POW__,並且再加上所持病毒卡張數x2的追加傷害。丟棄1張病毒卡|襲擊而來的手下們。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1414,
+        "feat_no": 401,
+        "pow": 5,
+        "dice_attribute": "",
+        "effect_image": "cutinchara71_skl01.swf",
+        "condition": "LM:D3+",
+        "created_at": "",
+        "name": {
+            "jp": "Ｔ・ウォール",
+            "en": "Wall of Troy",
+            "fr": "T-Wall",
+            "kr": "",
+            "scn": "特洛伊防壁",
+            "tcn": "特洛伊防壁",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[防御:__CONDITION__]DEF+__POW__,かつウイルスの所持枚数x6の防御力を加算する。ウイルスを1枚破棄|手駒による防御壁",
+            "en": "[防御:__CONDITION__]DEF+__POW__, and increase defense by 5 times the number of virus cards. Abandon 1 virus card.|A defensive wall built by your men.",
+            "fr": "[防御:__CONDITION__]DEF+__POW__, Vous augmentez votre capacité de défense de nombre de cartes Virus x5. Vous détruisez une carte Virus.|Mur protecteur créé par vos pions.",
+            "kr": "",
+            "scn": "[防御:__CONDITION__]DEF+__POW__,并且再加上所持病毒卡张数x6的防御力。丢弃1张病毒卡|由手下们所展开的防御壁。",
+            "tcn": "[防御:__CONDITION__]DEF+__POW__,並且再加上所持病毒卡張數x6的防禦力。丟棄1張病毒卡|由手下們所展開的防禦壁。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1417,
+        "feat_no": 402,
+        "pow": 6,
+        "dice_attribute": "special",
+        "effect_image": "cutinchara71_skl02.swf",
+        "condition": "LM:A3+",
+        "created_at": "",
+        "name": {
+            "jp": "マジストラ",
+            "en": "Marcus",
+            "fr": "Magistrat",
+            "kr": "",
+            "scn": "玛基斯托",
+            "tcn": "瑪基斯托",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[攻撃:__CONDITION__]ATK+__POW__,かつウイルスの所持枚数x2の追加ダメージを付与する。ウイルスを1枚破棄|襲い来る駒たち",
+            "en": "[攻撃:__CONDITION__]ATK+__POW__, and add damage by 2 times the number of virus cards. Abandon 1 virus card.|A wave of attacking men.",
+            "fr": "[攻撃:__CONDITION__]ATK+__POW__, Vous transformez le nombre de cartes Virus x2 en dommages supplémentaires. Vous détruisez une carte Virus.|Attaque de pions.",
+            "kr": "",
+            "scn": "[攻撃:__CONDITION__]ATK+__POW__,并且再加上所持病毒卡张数x2的追加伤害。丢弃1张病毒卡|袭击而来的手下们。",
+            "tcn": "[攻撃:__CONDITION__]ATK+__POW__,並且再加上所持病毒卡張數x2的追加傷害。丟棄1張病毒卡|襲擊而來的手下們。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1420,
+        "feat_no": 403,
+        "pow": 3,
+        "dice_attribute": "special",
+        "effect_image": "cutinchara71_skl03.swf",
+        "condition": "LM:S3+",
+        "created_at": "",
+        "name": {
+            "jp": "ハイブリス",
+            "en": "Hyperlius",
+            "fr": "Hybris",
+            "kr": "",
+            "scn": "海普利斯",
+            "tcn": "海普利斯",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[攻撃:__CONDITION__]相手と自分の所持しているウィルスカードを__POW__倍(MAX15枚)にする|増殖する死",
+            "en": "[攻撃:__CONDITION__]Increase the number of virus cards you and your opponent has by __POW__ times (max. 15 cards).|Creeping death.",
+            "fr": "[攻撃:__CONDITION__]Vous multipliez le nombre de cartes Virus que votre adversaire et vous-même possédez par __POW__(MAX 15 cartes).|Propagation mortelle.",
+            "kr": "",
+            "scn": "[攻撃:__CONDITION__]将对手跟自己手牌中的所有病毒卡数量变成__POW__倍(MAX15枚)|增生的死亡。",
+            "tcn": "[攻撃:__CONDITION__]將對手跟自己手牌中的所有病毒卡數量變成__POW__倍(MAX15枚)|增生的死亡。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1412,
+        "feat_no": 400,
+        "pow": 2,
+        "dice_attribute": "",
+        "effect_image": "cutinchara71_skl00ex.swf",
+        "condition": "LMS:E1+",
+        "created_at": "",
+        "name": {
+            "jp": "ExT・スキャッター",
+            "en": "Ex Spread of Troy",
+            "fr": "Ex T-Scatter",
+            "kr": "",
+            "scn": "Ex特洛伊扩散",
+            "tcn": "Ex特洛伊擴散",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[移動:__CONDITION__]発動時、デッキの上から7枚目までのどこかに__POW__枚ウイルスカードを仕込む|攻性ウィルスを戦場にばら撒く",
+            "en": "[移動:__CONDITION__]When dealt, __POW__ virus cards will be randomly inserted to the first 7 cards of the deck |Spreading deadly viruses to the battlefield.",
+            "fr": "[移動:__CONDITION__]Lors de son usage, vous glissez __POW__ cartes Virus dans la pioche, entre les sept premières cartes.|Vous éparpillez un virus agressif sur le champ de bataille. ",
+            "kr": "",
+            "scn": "[移動:__CONDITION__]发动时，在牌组上前7张内随机放入__POW__张病毒卡|将攻击性的病毒扩散在战场上。",
+            "tcn": "[移動:__CONDITION__]發動時，在牌組上前7張內隨機放入__POW__張病毒卡|將攻擊性的病毒擴散在戰場上。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1415,
+        "feat_no": 401,
+        "pow": 6,
+        "dice_attribute": "",
+        "effect_image": "cutinchara71_skl01ex.swf",
+        "condition": "LM:D3+",
+        "created_at": "",
+        "name": {
+            "jp": "ExＴ・ウォール",
+            "en": "Ex Wall of Troy",
+            "fr": "Ex T-Wall",
+            "kr": "",
+            "scn": "Ex特洛伊防壁",
+            "tcn": "Ex特洛伊防壁",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[防御:__CONDITION__]DEF+__POW__,かつウイルスの所持枚数x6の防御力を加算する。ウイルスを1枚破棄|手駒による防御壁",
+            "en": "[防御:__CONDITION__]DEF+__POW__, and increase defense by 5 times the number of virus cards. Abandon 1 virus card.|A defensive wall built by your men.",
+            "fr": "[防御:__CONDITION__]DEF+__POW__, Vous augmentez votre capacité de défense de nombre de cartes Virus x5. Vous détruisez une carte Virus.|Mur protecteur créé par vos pions.",
+            "kr": "",
+            "scn": "[防御:__CONDITION__]DEF+__POW__,并且再加上所持病毒卡张数x6的防御力。丢弃1张病毒卡|由手下们所展开的防御壁。",
+            "tcn": "[防御:__CONDITION__]DEF+__POW__,並且再加上所持病毒卡張數x6的防禦力。丟棄1張病毒卡|由手下們所展開的防禦壁。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1418,
+        "feat_no": 402,
+        "pow": 7,
+        "dice_attribute": "special",
+        "effect_image": "cutinchara71_skl02ex.swf",
+        "condition": "LM:A3+",
+        "created_at": "",
+        "name": {
+            "jp": "Exマジストラ",
+            "en": "Ex Marcus",
+            "fr": "ExMagistrat",
+            "kr": "",
+            "scn": "Ex玛基斯托",
+            "tcn": "Ex瑪基斯托",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[攻撃:__CONDITION__]ATK+__POW__,かつウイルスの所持枚数x2の追加ダメージを付与する。ウイルスを1枚破棄|襲い来る駒たち",
+            "en": "[攻撃:__CONDITION__]ATK+__POW__, and add damage by 2 times the number of virus cards. Abandon 1 virus card.|A wave of attacking men.",
+            "fr": "[攻撃:__CONDITION__]ATK+__POW__, Vous transformez le nombre de cartes Virus x2 en dommages supplémentaires. Vous détruisez une carte Virus.|Attaque de pions.",
+            "kr": "",
+            "scn": "[攻撃:__CONDITION__]ATK+__POW__,并且再加上所持病毒卡张数x2的追加伤害。丢弃1张病毒卡|袭击而来的手下们。",
+            "tcn": "[攻撃:__CONDITION__]ATK+__POW__,並且再加上所持病毒卡張數x2的追加傷害。丟棄1張病毒卡|襲擊而來的手下們。",
+            "ina": "",
+            "thai": ""
+        }
+    },
+    {
+        "id": 1421,
+        "feat_no": 403,
+        "pow": 5,
+        "dice_attribute": "special",
+        "effect_image": "cutinchara71_skl03ex.swf",
+        "condition": "LM:S2+",
+        "created_at": "",
+        "name": {
+            "jp": "Exハイブリス",
+            "en": "Ex Hyperlius",
+            "fr": "Ex Hybris",
+            "kr": "",
+            "scn": "Ex海普利斯",
+            "tcn": "Ex海普利斯",
+            "ina": "",
+            "thai": ""
+        },
+        "caption": {
+            "jp": "[攻撃:__CONDITION__]相手と自分の所持しているウィルスカードを__POW__倍(MAX15枚)にする|増殖する死",
+            "en": "[攻撃:__CONDITION__]Increase the number of virus cards you and your opponent has by __POW__ times (max. 15 cards).|Creeping death.",
+            "fr": "[攻撃:__CONDITION__]Vous multipliez le nombre de cartes Virus que votre adversaire et vous-même possédez par __POW__(MAX 15 cartes).|Propagation mortelle.",
+            "kr": "",
+            "scn": "[攻撃:__CONDITION__]将对手跟自己手牌中的所有病毒卡数量变成__POW__倍(MAX15枚)|增生的死亡。",
+            "tcn": "[攻撃:__CONDITION__]將對手跟自己手牌中的所有病毒卡數量變成__POW__倍(MAX15枚)|增生的死亡。",
+            "ina": "",
+            "thai": ""
+        }
+    }
+]
