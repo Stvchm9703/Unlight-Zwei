@@ -16,3 +16,4 @@ _book
 *.pdf
 
 data/_asset_bundle/ULZ assset
+Plugins/CSharp/grpc_unity_package.2.27.0-dev.zip
