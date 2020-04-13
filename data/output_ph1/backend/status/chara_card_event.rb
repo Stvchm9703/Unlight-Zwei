@@ -7414,6 +7414,8 @@ module Unlight
 #---------------------------------------------------------------------------------------------
 # 茨の森
 
+# ------------
+# check is trigger
   class CheckAddThornFeatEvent < EventRule
     dsc        "茨の森が可能か"
     type       :type=>:after, :obj=>"owner", :hook=>:deffence_card_add_action
@@ -7434,7 +7436,8 @@ module Unlight
     func       :check_thorn_feat
     goal       ["self", :use_end?]
   end
-
+# --------------
+# exec
   class UseThornFeatEvent < EventRule
     dsc        "茨の森を使用 防御力が+3"
     type       :type=>:after, :obj=>"owner", :hook=>:dp_calc_resolve
@@ -7448,7 +7451,8 @@ module Unlight
     func       :use_thorn_feat_damage
     goal       ["self", :use_end?]
   end
-
+# --------------
+# Finish
   class FinishThornFeatEvent < EventRule
     dsc        "茨の森の使用が終了"
     type       :type=>:after, :obj=>"duel", :hook=>:determine_battle_point_phase

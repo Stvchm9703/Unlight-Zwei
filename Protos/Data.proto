@@ -1,0 +1,193 @@
+syntax="proto3";
+
+import "common.proto";
+import  "EventHookPhase.proto";
+
+package ULZProto;
+option  csharp_namespace         = "ULZAsset.ProtoMod";
+option  go_package               = "proto";
+
+option  java_multiple_files      = true;
+option  java_package             = "io.grpc.ULZAsset.ProtoMod";
+option  java_outer_classname     = "ULZAsset";
+
+// Enum
+// -------------------------------------------------------------
+enum    PlayerSide  {
+    HOST                        = 1;
+    DUELER                      = 2;
+}
+
+enum    EventCardType {
+    ATTACK                      = 1;
+    DEFENCE                     = 2;
+    GUN                         = 3;
+    MOVE                        = 4;
+    STAR                        = 5;
+    NULL                        = 6;
+}
+
+enum    EventCardPos {
+    BLOCK                       = 1; 
+    INSIDE                      = 2;
+    OUTSIDE                     = 3;
+    DESTROY                     = 4;
+}
+
+enum    RangeType {
+    SHORT                       = 1;
+    MIDDLE                      = 2;
+    LONG                        = 3;
+}
+
+
+
+
+
+// GameDataSet 
+//      the whole instance game-duel set 
+message GameDataSet {
+    //  room_key, see also RoomService/message.proto : Room 
+    string                      room_key                = 1;
+    //  host_id, the user-id of host player 
+    string                      host_id                 = 2;
+    //  dueler_id, the user-id of dueler player
+    string                      duel_id                 = 3;
+    //  game_turn, the number of turns in game
+    int32                       game_turn               = 4;
+      
+    //  host_card_deck, the character card  
+    repeated CharCardSet        host_card_deck          = 5;
+    //  duel_card_deck, the character card
+    repeated CharCardSet        duel_card_deck          = 6;
+    
+    //  host_curr_card, current on-used char-card 
+    int32                       host_curr_card_key      = 7;
+    //  dueler_curr_card, current on-used char-card 
+    int32                       duel_curr_card_key      = 8;
+    
+    //  host_event_card_deck
+    repeated EventCard          host_event_card_deck    = 9;
+    //  duel_event_card_deck
+    repeated EventCard          duel_event_card_deck    = 10;
+
+    //  curr_range
+    RangeType                   range                   = 11;
+    // nvn 
+    int32                       nvn                     = 12;
+
+
+
+    PlayerSide                  phase_ab                = 13;
+    PlayerSide                  curr_phase              = 14;
+    //  event_phase, the event hook phase 
+    EventHookPhase              event_phase             = 15;
+    //  hook_type, the event hook type
+    EventHookType               hook_type               = 16;
+
+    
+    
+
+    //  flaging 
+    bool                        is_host_ready           = 17;
+    bool                        is_duel_ready           = 18;
+
+    //  Effect-result
+    repeated EffectCounter      effect_counter          = 19;
+}
+
+// CharCardSet 
+// 
+message CharCardSet {
+    int32                       char_id                 = 1;
+    int32                       card_id                 = 2;
+    int32                       hp_inst                 = 3;
+    int32                       ap_inst                 = 4;
+    int32                       dp_inst                 = 5;
+    int32                       level                   = 6;
+    repeated StatusSet          status_inst             = 7;
+    CharCardEquSet              equ_set                 = 8;
+}
+
+message CharCardEquSet {
+    int32                       equ_id                  = 1;
+    int32                       hp                      = 2;
+    int32                       ap                      = 3;
+    int32                       dp                      = 4;
+}
+
+
+message EventCard {
+    int32                       id                      = 1;
+    EventCardType               up_option               = 2;
+    int32                       up_val                  = 3;
+    EventCardType               down_option             = 4;
+    int32                       down_val                = 5;
+    EventCardPos                position                = 6;
+    bool                        is_invert               = 7;
+}
+
+
+message SkillSet {
+    int32                       id                      = 1;
+    int32                       feat_no                 = 2;
+    int32                       pow                     = 3;
+    string                      cond_string             = 4;
+    repeated Skill_CardCond     cond_card               = 5;
+    RangeType                   cond_range              = 6;
+}
+
+message Skill_CardCond {
+    EventCardType               type                    = 1;
+    int32                       val                     = 2;
+    SignEq                      compare                 = 3;
+    enum    SignEq {
+        EQUAL                   = 1;
+        GREATER                 = 2;
+        LESSER                  = 3;
+    }
+}
+
+message StatusSet {
+    int32                       id                      = 1;
+    string                      status_id               = 2;
+    int32                       remain_cd               = 3;
+}
+
+message Status_Effect {
+    int32                       id                      = 1;
+    int32                       feat_no                 = 2;
+    int32                       pow                     = 3;
+}
+
+
+//  EffectResult & EffectCounter
+//      same as 2D-table status[][]
+
+
+
+message EffectResult {
+    // targer 
+    int32                       tar_card                = 1;
+    PlayerSide                  tar_side                = 2;
+    // trigger-time
+    EventHookPhase              event_phase             = 3;
+    EventHookType               hook_type               = 4;
+    int32                       sub_count               = 5;
+    
+    // effect
+    int32                       hp                      = 6;
+    int32                       ap                      = 7;
+    int32                       dp                      = 8;
+    bool                        disable_move            = 9;
+    bool                        disable_atk             = 10;
+    bool                        disable_def             = 11;
+    bool                        disable_draw            = 12;
+    bool                        disable_change          = 13;
+    string                      binding_func            = 14;
+    
+    // 
+    int32                       remain_cd               = 15;
+    string                      assign_from             = 16;
+    int32                       skill_id                = 17;
+}

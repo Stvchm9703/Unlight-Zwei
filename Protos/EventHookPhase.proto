@@ -27,35 +27,24 @@ enum        EventHookPhase {
   chara_change_phase                            = 60;
   determine_chara_change_phase                  = 70;
 
-  /// ---- Atk/Def Phase A
-  attack_card_drop_phase_pA                     = 80;
-  defence_card_drop_phase_pA                    = 90;
-  determine_battle_point_phase_pA               = 100;
-  battle_result_phase_pA                        = 110; //roll dice
-  damage_phase_pA                               = 120;
-  dead_chara_change_phase_pA                    = 125;
-  determine_dead_chara_change_phase_pA          = 130;
+  /// ---- Atk/Def Phase 
+  attack_card_drop_phase                        = 80;
+  defence_card_drop_phase                       = 90;
+  determine_battle_point_phase                  = 100;
+  battle_result_phase                           = 110; //roll dice
+  damage_phase                                  = 120;
 
-  // change_initiative_phase
+  dead_chara_change_phase                       = 125;
+  determine_dead_chara_change_phase             = 130;
 
+  change_initiative_phase                       = 140;
 
-  /// ---- Atk/Def Phase B
-  attack_card_drop_phase_pB                     = 140;
-  defence_card_drop_phase_pB                    = 150;
-  determine_battle_point_phase_pB               = 160;
-  battle_result_phase_pB                        = 170; //roll dice
-  damage_phase_pB                               = 180;
-  determine_dead_chara_change_phase_pB          = 190;
-
-  /// ------ change char when the charecter dead
-  dead_chara_change_phase_pB                    = 200;
-  determine_dead_chara_change_phase             = 210;
 
   /// -- endof turn lifecycle
-  finish_turn_phase                             = 220;
+  finish_turn_phase                             = 150;
 
   /// endof game set
-  gameset_end                                   = 230;
+  gameset_end                                   = 160;
 }
 enum        EventHookType {
   Instant                                       = 0;

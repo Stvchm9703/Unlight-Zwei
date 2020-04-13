@@ -270,7 +270,7 @@ function main() {
             if (new_form[i] == null) {
                 new_form[i] = (r);
             }
-            new_form[i]["name"][elem] = orig[elem][status_elem];
+            new_form[i]["name"][elem] = (orig[elem][status_elem]);
             new_form[i]["caption"][elem] = orig[elem][status_elem];
             
             if (server_form[i] == null) {

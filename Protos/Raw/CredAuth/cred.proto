@@ -1,0 +1,72 @@
+// # hello.proto
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+import "google/api/annotations.proto";
+import "protoc-gen-swagger/options/annotations.proto";
+import "github.com/gogo/protobuf/gogoproto/gogo.proto";
+// import "GameCtl.proto";
+// import "github.com/mwitkow/go-proto-validators/validator.proto";
+
+package RoomStatus;
+option csharp_namespace = "ULZAsset.ProtoMod";
+option go_package  = "proto";
+option (grpc.gateway.protoc_gen_swagger.options.openapiv2_swagger) = {
+  info: { version: "0.2"; };
+  external_docs: {
+    url: "https://github.com/stvchm9703/IDCT";
+    description: "gRPC server Impletement repository";
+  }
+  schemes: HTTPS;
+};
+option (gogoproto.marshaler_all) = true;
+option (gogoproto.unmarshaler_all) = true;
+option (gogoproto.sizer_all) = true;
+option (gogoproto.goproto_registration) = true;
+option (gogoproto.messagename_all) = true;
+
+
+message CredReq {
+  string Ip           = 1;
+  string Username     = 2;
+  string Password     = 3;
+}
+
+message CreateCredResp{
+  int32 code          = 1;
+  bytes file           = 2;
+  ErrorMsg error_msg  = 3;
+}
+
+message CheckCredResp{
+  int32 response_code = 1; 
+  ErrorMsg error_msg  = 2;
+}
+
+
+message ErrorMsg{
+    string msg_info = 1;
+    string msg_desp =2;
+}
+
+
+service CreditsAuth {
+  rpc CheckCred(CredReq) returns (CheckCredResp){
+    option (google.api.http) = {
+      post: "/v1/cred/check"
+      body: "*"
+    };  
+  }
+  
+  rpc CreateCred (CredReq) returns (CheckCredResp) {
+    option (google.api.http) = {
+      post: "/v1/cred/create"
+      body: "*"
+    };  
+  } 
+  rpc GetCred(CredReq) returns (stream CreateCredResp){
+    option (google.api.http) = {
+      post: "/v1/cred/get"
+      body: "*"
+    };  
+  }
+}
