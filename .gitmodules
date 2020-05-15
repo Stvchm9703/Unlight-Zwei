@@ -7,3 +7,10 @@
 	url = https://github.com/Stvchm9703/Unlight-Zwei-ScptRunner.git
 
 
+[submodule "game_duel_service"]
+	path = game_duel_service
+	url = https://github.com/Stvchm9703/unlight-zwei-game-duel-service.git
+
+[submodule "room_service"]
+	path = room_service
+	url = https://github.com/Stvchm9703/unlight-zwei-room-service.git

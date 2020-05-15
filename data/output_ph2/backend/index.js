@@ -1,7 +1,7 @@
 // #node index.js 
 /** auto-gen from ulz/data/bin/adjust_skill.js 
 * generate by : Steven Chm
-* generate at : April 13th 2020, 4:57:19 pm
+* generate at : April 15th 2020, 3:53:56 pm
 * !please manually modify the skill function
 */
 // -----
@@ -97,10 +97,5 @@ if(featFuncTable[41] == null){
     featFuncTable[41] = cc05Sk.backstab;
 }
 
-var RunFeatFunc = function($request_feat, $request_set, $gm_dt){
-    if(featFuncTable[$request_feat] != null){
-        return featFuncTable[$request_feat]();
-    }
-    return null;
-};
-exports.RunFeatFunc = RunFeatFunc;
+exports.RunFeatFunc = util.RunFeatFunc;
+exports.GetSkillFunc = util.GetSkillFunc;

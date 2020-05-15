@@ -115,13 +115,12 @@ function createSkilllTempJs(skill_feat_name, feat_no_i, binding_cc) {
 * Character binded  : ${binding_cc}
 * Skill feat_no     : ${feat_no_i} 
 * Skill feat_name   : ${skill_feat_name}
-*   @function ${func_name}
+*   @function {${func_name}}
 *   @param {totalVal} $total_val
 *   @param {number} $pow_val
 *   @returns {totalVal, effect}
 */
 var ${func_name} = function ($total_val, $pow_val) {
-    let _skill_id_ = ${feat_no_i};
     var totalVal = _.clone($total_val);
     var effectList = [];
     // * Code the skill below
